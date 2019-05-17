@@ -11,7 +11,7 @@
 
 [在bilibili上观看](https://www.bilibili.com/video/av48569151)
 
-# PV Design Stuff （draft & WIP）|  PV 设计相关 （分镜稿 & 草稿 & 文稿）
+# PV Design Stuff （draft & WIP）|  PV 设计相关 
 
 Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
 [在bilibili上阅读 Chinese version](https://www.bilibili.com/read/cv2523141)
