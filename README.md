@@ -11,6 +11,12 @@
 
 [在bilibili上观看](https://www.bilibili.com/video/av48569151)
 
+# PV Design Stuff （draft & WIP）|  PV 设计相关 （分镜稿 & 草稿 & 文稿）
+
+Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
+[在bilibili上阅读 Chinese version](https://www.bilibili.com/read/cv2523141)
+
+
 # Model DL  | 模型配布
 
 2019.5.21 MAZE Group Model Pack
@@ -19,6 +25,7 @@
 ##Twitter
 
 Zip pass : 2019521
+
 Model pass : please check the tips at the end of PV
 
 
