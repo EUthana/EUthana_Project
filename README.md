@@ -1,5 +1,3 @@
-# EUthana Project | EUthana Project 公式
-
 
 # About us  |  关于我们
 Hi there !This is EUthana P & EVE ^^ 
