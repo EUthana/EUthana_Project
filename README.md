@@ -14,9 +14,9 @@
 2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
 ![](image/maze_title.png)
 
-##[watch this PV on Youtube](404 not fond...)
 
-[在bilibili上观看](https://www.bilibili.com/video/av53172362)
+
+[watch this PV on bilibili](https://www.bilibili.com/video/av53172362)
 
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 
