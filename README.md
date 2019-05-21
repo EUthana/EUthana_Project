@@ -27,13 +27,16 @@ Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜�
 # Model DL  | 模型配布
 
 2019.5.21 MAZE Group Model Pack
-##image
-##Bilibili
-##Twitter
+![](image/MAZE_Poster.png) 
+[在bilibili上观看配布视频](https://www.bilibili.com/video/av48569151)
+
 
 Zip pass  : 2019521
 
-Model pass : please check the tips at the end of PV
+Model pass : please check the numbers at the end of PV, each model require a pass with 3 numbers. (tips: MAZE group members ' height)
+
+模型密码提示：请查看视频末尾的数字，每个模型对应一个三位数的密码 （提示：MAZE成员对应的身高）
+
 
 
 
