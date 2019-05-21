@@ -7,9 +7,9 @@
 2019.4.7 - アンノウン・マザーグース（Unknown Mother-Goose）
 ![](image/unkown.png)
 
-[watch this PV on Youtube](https://www.youtube.com/watch?v=EWocFcocft8&lc=z22vvx0znzmcsnfhf04t1aokgmuyedliemix1xdre0fmrk0h00410)
 
-[在bilibili上观看](https://www.bilibili.com/video/av48569151)
+
+[watch this PV on bilibili](https://www.bilibili.com/video/av48569151)
 
 2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
 ![](image/maze_title.png)
