@@ -29,9 +29,8 @@ Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜�
 2019.5.21 MAZE Group Model Pack
 ![](image/MAZE_Poster.png) 
 
-[OneDrive](https://1drv.ms/u/s!ArFi6f6wphF1hW0zPry423lB7F35)
 
-[BowRoll](https://bowlroll.net/file/198273)
+[BowRoll DL page](https://bowlroll.net/file/198273)
 
 
 Zip pass  : 2019521
