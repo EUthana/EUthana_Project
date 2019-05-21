@@ -12,11 +12,11 @@
 [在bilibili上观看](https://www.bilibili.com/video/av48569151)
 
 2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
-![](image/unkown.png)
+![](image/maze_title.png)
 
 [watch this PV on Youtube](https://www.youtube.com/watch?v=EWocFcocft8&lc=z22vvx0znzmcsnfhf04t1aokgmuyedliemix1xdre0fmrk0h00410)
 
-[在bilibili上观看](https://www.bilibili.com/video/av48569151)
+[在bilibili上观看](https://www.bilibili.com/video/av53172362)
 
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 
@@ -28,7 +28,7 @@ Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜�
 
 2019.5.21 MAZE Group Model Pack
 ![](image/MAZE_Poster.png) 
-[在bilibili上观看配布视频](https://www.bilibili.com/video/av48569151)
+[DL](https://1drv.ms/u/s!ArFi6f6wphF1hW0zPry423lB7F35)
 
 
 Zip pass  : 2019521
