@@ -11,6 +11,13 @@
 
 [在bilibili上观看](https://www.bilibili.com/video/av48569151)
 
+2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
+![](image/unkown.png)
+
+[watch this PV on Youtube](https://www.youtube.com/watch?v=EWocFcocft8&lc=z22vvx0znzmcsnfhf04t1aokgmuyedliemix1xdre0fmrk0h00410)
+
+[在bilibili上观看](https://www.bilibili.com/video/av48569151)
+
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 
 Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
@@ -24,7 +31,7 @@ Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜�
 ##Bilibili
 ##Twitter
 
-Zip pass : 2019521
+Zip pass  : 2019521
 
 Model pass : please check the tips at the end of PV
 
