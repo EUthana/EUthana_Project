@@ -8,13 +8,14 @@
 ![](image/unkown.png)
 
 
+[watch this PV on YouTube](https://www.youtube.com/watch?v=EWocFcocft8)
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av48569151)
 
 2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
 ![](image/maze_title.png)
 
-
+[watch this PV on YouTube](https://www.youtube.com/watch?v=MDhNm6zlfew)
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av53172362)
 
