@@ -23,6 +23,8 @@
 2019.5.31 - Killer Lady  RG & DL MODEL DL
 ![](image/2.jpg)
 
+[watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
+
 [watch this PV on bilibili](https://www.bilibili.com/video/av54137883)
 
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
