@@ -62,6 +62,11 @@ Model pass ：please check the numbers at the end of PV （4 numbrs）
 模型密码提示：请查看视频末尾的四位数数字
 
 
+PHX I used in my PV  | PV中演示的物理参数
+
+![](image/QQ图片20190531151502.png)
+
+
 # About us  |  关于我们
 Hi there !This is EUthana P & EVE ^^ 
 
