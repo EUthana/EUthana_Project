@@ -19,7 +19,14 @@
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av53172362)
 
+
+2019.5.31 - Killer Lady  RG & DL MODEL DL
+![](image/2.jpg)
+
+[watch this PV on bilibili](https://www.bilibili.com/video/av54137883)
+
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
+![](image/DLRGdream-1.jpg) 
 
 Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
 [在bilibili上阅读 Chinese version](https://www.bilibili.com/read/cv2523141)
@@ -36,11 +43,23 @@ Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜�
 
 Zip pass  : 2019521
 
-Model pass : please check the numbers at the end of PV, each model require a pass with 3 numbers. (tips: MAZE group members ' height)
+Model pass : please check the numbers at the end of PV, each model requires a pass with 3 numbers. (tips: MAZE group members ' height)
 
 模型密码提示：请查看视频末尾的数字，每个模型对应一个三位数的密码 （提示：MAZE成员对应的身高）
 
 
+2019.5.31 RG & DL Model
+![](image/1.jpg)
+
+
+[DreadLord DL page](https://bowlroll.net/file/199004)
+
+
+[RoyalGuard DL page](https://bowlroll.net/file/199005)
+
+Model pass ：please check the numbers at the end of PV （4 numbrs）
+
+模型密码提示：请查看视频末尾的四位数数字
 
 
 # About us  |  关于我们
