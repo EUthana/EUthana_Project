@@ -57,11 +57,11 @@ Model pass : please check the numbers at the end of PV, each model requires a pa
 [DreadLord DL page](https://bowlroll.net/file/199004)
 
 
-[RoyalGuard DL page](https://bowlroll.net/file/199005)
+[RoyalGuard DL page](https://bowlroll.net/file/199005) 5.31 18:59 emergency update done, DL link reopen
 
-*RG model currenctly dl down due to the bug, plz stop using*
 
-因模型文件出错故暂停下载，修复后恢复下载
+
+
 
 Model pass ：please check the numbers at the end of PV （4 numbrs）
 
