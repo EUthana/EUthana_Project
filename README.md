@@ -61,6 +61,8 @@ Model pass : please check the numbers at the end of PV, each model requires a pa
 
 *RG model currenctly dl down due to the bug, plz stop using*
 
+因模型文件出错故暂停下载，修复后恢复下载
+
 Model pass ：please check the numbers at the end of PV （4 numbrs）
 
 模型密码提示：请查看视频末尾的四位数数字
