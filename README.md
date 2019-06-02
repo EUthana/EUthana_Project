@@ -57,8 +57,7 @@ Model pass : please check the numbers at the end of PV, each model requires a pa
 [DreadLord DL page](https://bowlroll.net/file/199004)
 
 
-[RoyalGuard DL page](https://bowlroll.net/file/199005) 5.31 18:59 emergency update done, DL link reopen
-
+[RoyalGuard DL page](https://bowlroll.net/file/199005) 6.3 00:16 joint update 
 
 
 
