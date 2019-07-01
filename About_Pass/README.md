@@ -1,5 +1,5 @@
 
-# why I have this page?  | 为什么我会有这个页面
+# why I have this page?  | 为什么会有这个页面
 
 I had to improve the difficulty of the model password because there was an online shop stealing my model.
 
@@ -9,7 +9,7 @@ I’m sorry, but I have to do this to protect my work. This page is for the mmde
 
 这个页面就是为了对模型密码种类不解的mmder使用
 
-# Password type | 今后会出现的模型密码种类
+# Password type | 会出现的密码种类
 
 Example  -  HelloWorld
 
