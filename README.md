@@ -90,7 +90,7 @@ PHX I used in my PV  | PV中演示的物理参数
 
 ## 2019.7.3 DB & DM Model DL
 
-
+### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
 bowlroll pass:
 
