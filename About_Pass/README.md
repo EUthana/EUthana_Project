@@ -1,5 +1,5 @@
 
-# why I have this page?  | 为什么会有这个页面
+# why I have this page?  | 为什么有这个页面
 
 I had to improve the difficulty of the model password because there was an online shop stealing my model.
 
