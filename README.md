@@ -101,7 +101,9 @@ PHX I used in my PV  | PV中演示的物理参数
 ![](image/MP_preview.png)
 ![](image/MP_TF_preview.png)
 
+# About Password Changes |  关于密码变更
 
+[please read this when you have no idea with pass tips](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
 
