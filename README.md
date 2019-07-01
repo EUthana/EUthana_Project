@@ -27,6 +27,13 @@
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av54137883)
 
+
+2019.7.3 - Trouble Maker DB & DM MODEL DL
+![](image/trouble.png)
+
+[watch this PV on bilibili](https://www.bilibili.com/video/av57159944/)
+
+[watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 ![](image/DLRGdream-1.jpg) 
 
