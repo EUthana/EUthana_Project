@@ -34,6 +34,15 @@
 [watch this PV on bilibili](https://www.bilibili.com/video/av57159944/)
 
 [watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
+
+2019.7.4 - Carnival  Mad Paradox MODEL DL
+![](image/carnival.png)
+
+[watch this PV on bilibili](https://www.bilibili.com/video/av57162335/)
+
+[watch this PV on YouTube](https://www.youtube.com/watch?v=zUz8j4FEOZw)
+
+
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 ![](image/DLRGdream-1.jpg) 
 
