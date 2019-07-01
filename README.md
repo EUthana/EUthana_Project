@@ -12,7 +12,7 @@
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av48569151)
 
-2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
+## 2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
 ![](image/maze_title.png)
 
 [watch this PV on YouTube](https://www.youtube.com/watch?v=MDhNm6zlfew)
@@ -20,7 +20,7 @@
 [watch this PV on bilibili](https://www.bilibili.com/video/av53172362)
 
 
-2019.5.31 - Killer Lady  RG & DL MODEL DL
+## 2019.5.31 - Killer Lady  RG & DL MODEL DL
 ![](image/2.jpg)
 
 [watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
@@ -28,14 +28,14 @@
 [watch this PV on bilibili](https://www.bilibili.com/video/av54137883)
 
 
-2019.7.3 - Trouble Maker DB & DM MODEL DL
+## 2019.7.3 - Trouble Maker DB & DM MODEL DL
 ![](image/trouble.png)
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av57159944/)
 
 [watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
 
-2019.7.4 - Carnival  Mad Paradox MODEL DL
+## 2019.7.4 - Carnival  Mad Paradox MODEL DL
 ![](image/carnival.png)
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av57162335/)
@@ -46,13 +46,13 @@
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 ![](image/DLRGdream-1.jpg) 
 
-Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
+## Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
 [在bilibili上阅读 Chinese version](https://www.bilibili.com/read/cv2523141)
 
 
 # Model DL  | 模型配布
 
-2019.5.21 MAZE Group Model Pack
+## 2019.5.21 MAZE Group Model Pack
 ![](image/MAZE_Poster.png) 
 
 
@@ -66,7 +66,7 @@ Model pass : please check the numbers at the end of PV, each model requires a pa
 模型密码提示：请查看视频末尾的数字，每个模型对应一个三位数的密码 （提示：MAZE成员对应的身高）
 
 
-2019.5.31 RG & DL Model
+## 2019.5.31 RG & DL Model
 ![](image/1.jpg)
 
 
@@ -88,7 +88,7 @@ PHX I used in my PV  | PV中演示的物理参数
 ![](image/QQ图片20190531151502.png)
 
 
-2019.7.3 DB & DM Model DL
+## 2019.7.3 DB & DM Model DL
 
 
 
@@ -124,7 +124,7 @@ Dominator's backstory references whos's backstory? Only the class name.
 
 # About Password Changes |  关于密码变更
 
-[please read this when you have no idea with pass tips](https://euthana.github.io/EUthana_Project/About_Pass/) 
+## [please read this when you have no idea with pass tips](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
 
