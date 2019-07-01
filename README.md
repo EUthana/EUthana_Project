@@ -90,10 +90,31 @@ PHX I used in my PV  | PV中演示的物理参数
 
 2019.7.3 DB & DM Model DL
 
+
+
+bowlroll pass:
+
+please use English to answer this question （this pass contains capital letters and space）
+
+7768617420697320746869732063686172616374657227732066756C6C206E616D653F
+
+Zip Pass:
+
+please use English to answer this question （this pass contains capital letters and space）
+
+496E20746865204A6170616E657365207365727665722C2041646427732044796E616D6F73206172652072656E616D656420746F20776861743F
+
 ![](image/DB_preview.png)
+
+DB's pass
+
+How many tail-like belts does this character have? Please answer with number(s).
+
 ![](image/DM_preview.png)
 
+DM's pass
 
+Dominator's backstory references whos's backstory? Only the class name.
 
 
 2019.7.4 MP Model pack DL
