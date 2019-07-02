@@ -117,7 +117,7 @@ How many tail-like belts does this character have? Please answer with number(s).
 
 #### DM's pass
 
-Dominator's backstory references whos's backstory? Only the class name.
+Dominator's backstory references whos's backstory? Only the class name.（this pass contains capital letters and space）
 
 
 
