@@ -88,7 +88,10 @@ PHX I used in my PV  | PV中演示的物理参数
 ![](image/QQ图片20190531151502.png)
 
 
-## 2019.7.3 DB & DM Model DL
+## 2019.7.3 & 7.4 ADD MODEL PACK DL
+
+![](image/ADD.png)
+
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
