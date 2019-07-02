@@ -33,7 +33,7 @@
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av57159944/)
 
-[watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
+[watch this PV on YouTube](https://www.youtube.com/watch?v=JbshxWFe5Ck)
 
 ## 2019.7.4 - Carnival  Mad Paradox MODEL DL
 ![](image/carnival.png)
