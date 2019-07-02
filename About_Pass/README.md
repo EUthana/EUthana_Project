@@ -31,3 +31,9 @@ Morse code （摩斯电码）:  ....  .  .-..  .-..  ---  .--  ---  .-.  .-..  -
 [text to binary  ](https://www.convertbinary.com/)
 
 [morse code to text ](https://morsecode.scphillips.com/translator.html)
+
+# Pass Range | 密码范围
+
+All the pass information could be fond on [Elwiki ](https://elwiki.net/w/Main_Page) character back story/trivia/setting
+
+
