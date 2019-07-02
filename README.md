@@ -59,9 +59,9 @@
 [BowRoll DL page](https://bowlroll.net/file/198273)
 
 
-Zip pass  : 2019521
+#### Zip pass  : 2019521
 
-Model pass : please check the numbers at the end of PV, each model requires a pass with 3 numbers. (tips: MAZE group members ' height)
+#### Model pass : please check the numbers at the end of PV, each model requires a pass with 3 numbers. (tips: MAZE group members ' height)
 
 模型密码提示：请查看视频末尾的数字，每个模型对应一个三位数的密码 （提示：MAZE成员对应的身高）
 
@@ -78,7 +78,7 @@ Model pass : please check the numbers at the end of PV, each model requires a pa
 
 
 
-Model pass ：please check the numbers at the end of PV （4 numbrs）
+#### Model pass ：please check the numbers at the end of PV （4 numbrs）
 
 模型密码提示：请查看视频末尾的四位数数字
 
@@ -95,13 +95,13 @@ PHX I used in my PV  | PV中演示的物理参数
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
-bowlroll pass:
+#### bowlroll pass:
 
 please use English to answer this question （this pass contains capital letters and space）
 
 7768617420697320746869732063686172616374657227732066756C6C206E616D653F
 
-Zip Pass:
+#### Zip Pass:
 
 please use English to answer this question （this pass contains capital letters and space）
 
@@ -109,21 +109,26 @@ please use English to answer this question （this pass contains capital letters
 
 ![](image/DB_preview.png)
 
-DB's pass
+#### DB's pass
 
 How many tail-like belts does this character have? Please answer with number(s).
 
 ![](image/DM_preview.png)
 
-DM's pass
+#### DM's pass
 
 Dominator's backstory references whos's backstory? Only the class name.
 
 
-2019.7.4 MP Model pack DL
 
 ![](image/MP_preview.png)
+
+#### pass will release on 7.4
+
 ![](image/MP_TF_preview.png)
+
+#### pass will release on 7.4
+
 
 # About Password Changes |  关于密码变更
 
