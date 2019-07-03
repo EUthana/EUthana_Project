@@ -130,7 +130,7 @@ Dominator's backstory references whos's backstory? Only the class name.（this p
 
 #### MP's pass
 
-Mad Paradox now become an _?_ in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
+Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
 
 # About Password Changes |  关于密码变更
