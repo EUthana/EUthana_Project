@@ -125,11 +125,10 @@ Dominator's backstory references whos's backstory? Only the class name.（this p
 
 ![](image/MP_preview.png)
 
-#### pass will release on 7.4
 
 ![](image/MP_TF_preview.png)
 
-#### pass will release on 7.4
+#### Mad Paradox now become an ____?____ in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
 
 # About Password Changes |  关于密码变更
