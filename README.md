@@ -137,8 +137,27 @@ Mad Paradox now become an --?-- in time and space with a fluctuating appearance,
 
 ![](image/Ain2.png)
 
-[BowlRoll DL page](https://bowlroll.net/file/201755)
+[BowlRoll DL page](https://bowlroll.net/file/205019)
 
+### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+
+#### bowlroll pass:
+
+please use English to answer this question （this pass contains capital letters and space）
+
+7768617420697320746869732063686172616374657227732066756C6C206E616D653F
+
+#### ZIP pass:
+
+-. .- -- . / --- ..-. / - .... . / --. --- -.. / --- ..-. / .-.. .. --. .... - / .- -. -.. / -. .- -- . / --- ..-. / - .... . / --. --- -.. / --- ..-. / -.. .- .-. -.- -. . ... ...
+
+### Character pass:
+
+Richter--Judgement -Sword of Ishmael
+
+Bluhen--Guide -Song of Harmony
+
+Herrscher -Incarnate of Void
 
 
 # About Password Changes |  关于密码变更
