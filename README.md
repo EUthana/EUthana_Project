@@ -151,6 +151,8 @@ please use English to answer this question （this pass contains capital letters
 
 -. .- -- . / --- ..-. / - .... . / --. --- -.. / --- ..-. / .-.. .. --. .... - / .- -. -.. / -. .- -- . / --- ..-. / - .... . / --. --- -.. / --- ..-. / -.. .- .-. -.- -. . ... ...
 
+the format is (Aaaa&Bbbb)and no space
+
 ### Character pass:
 
 Please enter the item's name in English. （this pass contains capital letters and space）
