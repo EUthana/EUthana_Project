@@ -133,6 +133,14 @@ Dominator's backstory references whos's backstory? Only the class name.（this p
 Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
 
+## 2019.8.12 Ain 3rd Jobs Model Pack DL
+
+![](image/MP_preview.png)
+
+
+
+
+
 # About Password Changes |  关于密码变更
 
 ## [please read this when you have no idea with pass tips](https://euthana.github.io/EUthana_Project/About_Pass/) 
