@@ -153,11 +153,15 @@ please use English to answer this question （this pass contains capital letters
 
 ### Character pass:
 
-Richter--Judgement -Sword of Ishmael
+Please enter the item's name in English. （this pass contains capital letters and space）
 
-Bluhen--Guide -Song of Harmony
+Richter--![](image/RicJC.png)
 
-Herrscher -Incarnate of Void
+Bluhen--Guide -![](image/BluJC.png)
+
+Herrscher -![](image/Job_Change_-_Herrscher.png)
+
+####key words:Job change item
 
 
 # About Password Changes |  关于密码变更
