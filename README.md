@@ -42,6 +42,13 @@
 
 [watch this PV on YouTube](https://www.youtube.com/watch?v=zUz8j4FEOZw)
 
+## 2019.8.12 - Vol.HeniΩr Ain model(normal) pack DL
+![](image/image/ain_cover.png)
+
+[watch this PV on bilibili](https://www.bilibili.com/video/av63345607)
+
+[watch this PV on YouTube](https://www.youtube.com/watch?v=zUz8j4FEOZw)
+
 
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 ![](image/DLRGdream-1.jpg) 
