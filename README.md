@@ -133,11 +133,11 @@ Dominator's backstory references whos's backstory? Only the class name.（this p
 Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
 
-## 2019.8.12 Ain 3rd Jobs Model Pack DL
+## 2019.8.12 Ain Model Pack DL
 
-![](image/MP_preview.png)
+![](image/Ain2.png)
 
-
+[BowlRoll DL page](https://bowlroll.net/file/201755)
 
 
 
