@@ -166,9 +166,9 @@ Please enter the item's name in English. （this pass contains capital letters a
 
 Richter--![](image/RicJC.png)
 
-Bluhen--Guide -![](image/BluJC.png)
+Bluhen---![](image/BluJC.png)
 
-Herrscher -![](image/Job_Change_-_Herrscher.png)
+Herrscher --![](image/Job_Change_-_Herrscher.png)
 
 #### key words:Job change item
 
