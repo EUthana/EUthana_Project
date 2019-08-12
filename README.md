@@ -43,7 +43,7 @@
 [watch this PV on YouTube](https://www.youtube.com/watch?v=zUz8j4FEOZw)
 
 ## 2019.8.12 - Vol.HeniΩr Ain model(normal) pack DL
-![](image/image/ain_cover.png)
+![](image/ain_cover.png)
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av63345607)
 
