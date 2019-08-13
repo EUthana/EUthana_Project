@@ -173,7 +173,7 @@ Herrscher --![](image/Job_Change_-_Herrscher.png)
 #### key words:Job change item
 
 #### PHX I used in my PV  | PV中演示的物理参数
-#### commend if you need to keep their costume floating
+#### (if you need to keep their costume floating,you could try it)
 
 ![](image/phx2.png)
 
