@@ -175,7 +175,7 @@ Herrscher --![](image/Job_Change_-_Herrscher.png)
 #### PHX I used in my PV  | PV中演示的物理参数
 #### commend if you need to keep their costume floating
 
-![](image/image/phx2.png)
+![](image/phx2.png)
 
 
 
