@@ -172,6 +172,12 @@ Herrscher --![](image/Job_Change_-_Herrscher.png)
 
 #### key words:Job change item
 
+#### PHX I used in my PV  | PV中演示的物理参数
+#### commend if you need to keep their costume floating
+
+![](image/image/phx2.png)
+
+
 
 # About Password Changes |  关于密码变更
 
