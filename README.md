@@ -47,7 +47,7 @@
 
 [watch this PV on bilibili](https://www.bilibili.com/video/av63345607)
 
-[watch this PV on YouTube](https://www.youtube.com/watch?v=zUz8j4FEOZw)
+[watch this PV on YouTube](https://www.youtube.com/watch?v=uJv2wS5X4LU)
 
 
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
