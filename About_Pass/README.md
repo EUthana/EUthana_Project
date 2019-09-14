@@ -22,8 +22,6 @@ Morse code （摩斯电码）:  ....  .  .-..  .-..  ---  .--  ---  .-.  .-..  -
 # Code translator| 代码翻译转换器
 
 
-[binary/ hexadecimal/decimal translator](https://www.rapidtables.com/convert/number/hex-to-binary.html)
-
 [binary to text ](https://www.convertbinary.com/to-text/)
 
 [text to binary  ](https://www.convertbinary.com/)
