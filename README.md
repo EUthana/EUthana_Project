@@ -104,15 +104,21 @@ PHX I used in my PV  | PV中演示的物理参数
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
+###如果你对密码提示毫无头绪，请先阅读该页面
+
 #### bowlroll pass:
 
 please use English to answer this question （this pass contains capital letters and space）
+
+请使用英文回答如下问题 （这个密码包含大写字母和空格）
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
 #### Zip Pass:
 
 please use English to answer this question （this pass contains capital letters and space）
+
+请使用英文回答如下问题 （这个密码包含大写字母和空格）
 
 01001001 01101110 00100000 01110100 01101000 01100101 00100000 01001010 01100001 01110000 01100001 01101110 01100101 01110011 01100101 00100000 01110011 01100101 01110010 01110110 01100101 01110010 00101100 00100000 01000001 01100100 01100100 00100111 01110011 00100000 01000100 01111001 01101110 01100001 01101101 01101111 01110011 00100000 01100001 01110010 01100101 00100000 01110010 01100101 01101110 01100001 01101101 01100101 01100100 00100000 01110100 01101111 00100000 00111111 
 
@@ -122,12 +128,15 @@ please use English to answer this question （this pass contains capital letters
 
 How many tail-like belts does this character have? Please answer with number(s).
 
+这个角色背后有多少条尾巴形状的带状物？请用数字回答
+
 ![](image/DM_preview.png)
 
 #### DM's pass
 
 Dominator's backstory references whos's backstory? Only the class name.（this pass contains capital letters and space）
 
+DM的背景故事和哪个转职的背景故事类似？请用职业名字回答 （这个密码包含大写字母和空格）
 
 
 ![](image/MP_preview.png)
@@ -139,6 +148,7 @@ Dominator's backstory references whos's backstory? Only the class name.（this p
 
 Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
+MP不再是个物理上的存在，成为了时空中无固定姿态的（？）。这也是立绘为幼年形态的原因。请回答（？）
 
 ## 2019.8.12 Ain Model Pack DL
 
@@ -148,9 +158,13 @@ Mad Paradox now become an --?-- in time and space with a fluctuating appearance,
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
+### 如果你对密码提示毫无头绪，请先阅读该页面
+
 #### bowlroll pass:
 
 please use English to answer this question （this pass contains capital letters and space）
+
+请使用英文回答如下问题 （这个密码包含大写字母和空格）
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
@@ -160,9 +174,13 @@ please use English to answer this question （this pass contains capital letters
 
 the format is (Aaaa&Bbbb)and no space
 
+这个密码格式是（Aaaa&Bbbb）无空格
+
 ### Character pass:
 
 Please enter the item's name in English. （this pass contains capital letters and space）
+
+请用英文输入下列物品的名字。（这个密码包含大写字母和空格）
 
 Richter--![](image/RicJC.png)
 
@@ -172,8 +190,12 @@ Herrscher --![](image/Job_Change_-_Herrscher.png)
 
 #### key words:Job change item
 
+#### 关键词：Ain的三转商城转职道具 （这不是职业技能被动清醒一点！！！！！）
+
 #### PHX I used in my PV  | PV中演示的物理参数
 #### (if you need to keep their costume floating,you could try it)
+
+#### 如果你需要让他们的衣摆保持悬浮状态，你可以尝试该参数
 
 ![](image/phx2.png)
 
