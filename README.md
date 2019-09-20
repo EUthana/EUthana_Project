@@ -104,7 +104,7 @@ PHX I used in my PV  | PV中演示的物理参数
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
-###如果你对密码提示毫无头绪，请先阅读该页面
+### 如果你对密码提示毫无头绪，请先阅读该页面
 
 #### bowlroll pass:
 
