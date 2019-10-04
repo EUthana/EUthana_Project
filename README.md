@@ -63,7 +63,7 @@
 ![](image/MAZE_Poster.png) 
 
 
-[BowRoll DL page](https://bowlroll.net/file/198273)
+### [BowRoll DL page](https://bowlroll.net/file/198273)
 
 
 #### Zip pass  : 2019521
@@ -77,10 +77,10 @@
 ![](image/1.jpg)
 
 
-[DreadLord DL page](https://bowlroll.net/file/199004)
+### [DreadLord DL page](https://bowlroll.net/file/199004)
 
 
-[RoyalGuard DL page](https://bowlroll.net/file/199005) 6.3 00:16 joint update 
+### [RoyalGuard DL page](https://bowlroll.net/file/199005) 6.3 00:16 joint update 
 
 
 
@@ -99,7 +99,7 @@ PHX I used in my PV  | PV中演示的物理参数
 
 ![](image/ADD.png)
 
-[BowlRoll DL page](https://bowlroll.net/file/201755)
+### [BowlRoll DL page](https://bowlroll.net/file/201755)
 
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
@@ -154,7 +154,7 @@ MP不再是个物理上的存在，成为了时空中无固定姿态的（？）
 
 ![](image/Ain2.png)
 
-[BowlRoll DL page](https://bowlroll.net/file/205019)
+### [BowlRoll DL page](https://bowlroll.net/file/205019)
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
@@ -184,9 +184,9 @@ Please enter the item's name in English. （this pass contains capital letters a
 
 Richter--![](image/RicJC.png)
 
-Bluhen---![](image/BluJC.png)
+Bluhen--![](image/BluJC.png)
 
-Herrscher --![](image/Job_Change_-_Herrscher.png)
+Herrscher--![](image/Job_Change_-_Herrscher.png)
 
 #### key words:Job change item
 
@@ -199,6 +199,12 @@ Herrscher --![](image/Job_Change_-_Herrscher.png)
 
 ![](image/phx2.png)
 
+## 2019.10.5 Ain weapon Pack DL
+
+![](image/way.png)
+
+### [BowlRoll DL page](https://bowlroll.net/file/208825)
+pass：Shiawase
 
 
 # About Password Changes |  关于密码变更
