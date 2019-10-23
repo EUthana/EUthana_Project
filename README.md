@@ -199,12 +199,12 @@ Herrscher--![](image/Job_Change_-_Herrscher.png)
 
 ![](image/phx2.png)
 
-## 2019.10.5 Ain weapon Pack Limited time DL (2019/10/5 ~ 2019/10/15)
+## 2019.10.5 Ain weapon Pack Limited time DL (DL CLOSED)
 
 ![](image/way.png)
 
 ### [BowlRoll DL page](https://bowlroll.net/file/208825)
-pass：Shiawase
+
 
 
 # About Password Changes |  关于密码变更
