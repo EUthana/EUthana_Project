@@ -206,6 +206,12 @@ Herrscher--![](image/Job_Change_-_Herrscher.png)
 ### [BowlRoll DL page](https://bowlroll.net/file/208825)
 
 
+## 2019.12.4 Ciel 3rd Job Pack Limited time No Pass DL (12.04~12.06)
+![](image/xer1.png)
+
+### [OneDrive DL page](https://1drv.ms/u/s!ArFi6f6wphF1jWYjO9rznMSGCkre?e=mNJjdE)
+
+
 
 # About Password Changes |  关于密码变更
 
