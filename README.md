@@ -233,11 +233,11 @@ Please enter the item's name in English. （this pass contains capital letters a
 
 请用英文输入下列物品的名字。（这个密码包含大写字母和空格）
 
-Abysser--![](image/RicJC.png)
+Abysser--![](image/CaTJC.png)
 
-Chevalier--![](image/BluJC.png)
+Chevalier--![](image/InnoJC.png)
 
-Anular--![](image/Job_Change_-_Herrscher.png)
+Anular--![](image/Job_Change_-_Diangelion.png)
 
 #### key words:Job change item
 
