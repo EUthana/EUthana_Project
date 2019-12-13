@@ -199,14 +199,15 @@ Herrscher--![](image/Job_Change_-_Herrscher.png)
 
 ![](image/phx2.png)
 
-## 2019.10.5 Ain weapon Pack Limited time DL (DL CLOSED)
+## 2019.10.12 Ain weapon Pack DL 
 
 ![](image/way.png)
 
 ### [BowlRoll DL page](https://bowlroll.net/file/208825)
 
+#### bowlroll pass:God's Agent
 
-## 2019.12.4 Ciel 3rd Job Pack Limited time No Pass DL (12.04~12.06)
+## 2019.12.12 Ciel 3rd Job Pack DL 
 ![](image/xer1.png)
 
 ### [BowlRoll DL page](https://bowlroll.net/file/213606)
