@@ -209,9 +209,39 @@ Herrscher--![](image/Job_Change_-_Herrscher.png)
 ## 2019.12.4 Ciel 3rd Job Pack Limited time No Pass DL (12.04~12.06)
 ![](image/xer1.png)
 
-### [OneDrive DL page](https://1drv.ms/u/s!ArFi6f6wphF1jWYjO9rznMSGCkre?e=mNJjdE)
+### [BowlRoll DL page](https://bowlroll.net/file/213606)
 
+### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
+### 如果你对密码提示毫无头绪，请先阅读该页面
+
+#### bowlroll pass:
+
+please use English to answer this question （this pass contains capital letters and space）
+
+请使用英文回答如下问题 （这个密码包含大写字母和空格）
+
+01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
+
+#### ZIP pass:
+
+01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01000011 01101001 01100101 01101100 00100111 01110011 00100000 01100100 01100101 01100011 01100001 01110011 01100101 01100100 00100000 01110011 01101001 01110011 01110100 01100101 01110010 00100111 01110011 00100000 01101110 01100001 01101101 01100101 00111111 
+
+### Character pass:
+
+Please enter the item's name in English. （this pass contains capital letters and space）
+
+请用英文输入下列物品的名字。（这个密码包含大写字母和空格）
+
+Abysser--![](image/RicJC.png)
+
+Chevalier--![](image/BluJC.png)
+
+Anular--![](image/Job_Change_-_Herrscher.png)
+
+#### key words:Job change item
+
+#### 关键词：Ciel的三转商城转职道具 
 
 # About Password Changes |  关于密码变更
 
