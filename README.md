@@ -205,7 +205,7 @@ Herrscher--![](image/Job_Change_-_Herrscher.png)
 
 ### [BowlRoll DL page](https://bowlroll.net/file/208825)
 
-#### bowlroll pass:God's Agent
+#### bowlroll pass: God's Agent
 
 ## 2019.12.12 Ciel 3rd Job Pack DL 
 ![](image/xer1.png)
