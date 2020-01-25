@@ -252,7 +252,7 @@ Anular--![](image/Job_Change_-_Diangelion.png)
 ## [please read this when you have no idea with pass tips](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
-## 2019.12.27 trinityACE Pack Limit Time no pass DL (12.27~12.31)
+## 2019.12.27 trinityACE Pack DL 
 
 ![](image/ACE配布图3.png)
 
