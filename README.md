@@ -258,7 +258,7 @@ Anular--![](image/Job_Change_-_Diangelion.png)
 
 ### [BowRoll DL page](https://bowlroll.net/file/214499)
 
-![](image/image/passACE.png)
+![](image/passACE.png)
 
 #### Happy Chinese new year!! 祝鼠年快乐！
 
