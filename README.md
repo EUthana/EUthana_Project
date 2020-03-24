@@ -220,8 +220,13 @@ Anular--![](image/Job_Change_-_Diangelion.png)
 
 ![](image/16.png)
 
-## ZIP pass: The name of the character which shown on the 3rd min of PV (All Capital letters)
-## 压缩包密码提示：在PV第3分钟时显示的人物名字（全大写字母）
+## ZIP pass: 
+
+The name of the character which shown on the 3rd min of PV (All Capital letters)
+
+## 压缩包密码提示：
+
+在PV第3分钟时显示的人物名字（全大写字母）
 
 # About us  |  关于我们
 Hi there !This is EUthana P & EVE ^^ 
