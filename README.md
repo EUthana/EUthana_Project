@@ -1,55 +1,5 @@
 ![](image/EU2.png)
 
-
-
-# PV Update |  PV 更新
-
-## 2019.4.7 - アンノウン・マザーグース（Unknown Mother-Goose）
-![](image/unkown.png)
-
-
-[watch this PV on YouTube](https://www.youtube.com/watch?v=EWocFcocft8)
-
-[watch this PV on bilibili](https://www.bilibili.com/video/av48569151)
-
-## 2019.5.21 - Chained Up (vixx) & MAZE MODEL DL
-![](image/maze_title.png)
-
-[watch this PV on YouTube](https://www.youtube.com/watch?v=MDhNm6zlfew)
-
-[watch this PV on bilibili](https://www.bilibili.com/video/av53172362)
-
-
-## 2019.5.31 - Killer Lady  RG & DL MODEL DL
-![](image/2.jpg)
-
-[watch this PV on YouTube](https://www.youtube.com/watch?v=s6P8_odiR-s)
-
-[watch this PV on bilibili](https://www.bilibili.com/video/av54137883)
-
-
-## 2019.7.3 - Trouble Maker DB & DM MODEL DL
-![](image/trouble.png)
-
-[watch this PV on bilibili](https://www.bilibili.com/video/av57159944/)
-
-[watch this PV on YouTube](https://www.youtube.com/watch?v=JbshxWFe5Ck)
-
-## 2019.7.4 - Carnival  Mad Paradox MODEL DL
-![](image/carnival.png)
-
-[watch this PV on bilibili](https://www.bilibili.com/video/av57162335/)
-
-[watch this PV on YouTube](https://www.youtube.com/watch?v=zUz8j4FEOZw)
-
-## 2019.8.12 - Vol.HeniΩr Ain model(normal) pack DL
-![](image/ain_cover.png)
-
-[watch this PV on bilibili](https://www.bilibili.com/video/av63345607)
-
-[watch this PV on YouTube](https://www.youtube.com/watch?v=uJv2wS5X4LU)
-
-
 # PV Design Stuff （draft & WIP）|  PV 设计相关 
 ![](image/DLRGdream-1.jpg) 
 
@@ -262,6 +212,11 @@ Anular--![](image/Job_Change_-_Diangelion.png)
 
 #### Happy Chinese new year!! 祝鼠年快乐！
 
+## 2020.03.24 Otome Kaibou Accessory DL
+
+![](image/otome.png)
+
+### [BowRoll DL page](https://bowlroll.net/file/214499)
 
 # About us  |  关于我们
 Hi there !This is EUthana P & EVE ^^ 
