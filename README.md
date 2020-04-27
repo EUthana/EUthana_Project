@@ -228,6 +228,17 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 在PV第3分钟时显示的人物名字（全大写字母）
 
+## 2020.04.27 Lofty: Wanderer Wedding 2020
+
+![](image/karma2.png)
+
+### [BowlRoll DL page](https://bowlroll.net/file/224285)
+
+#### bowlroll pass:
+
+![](image/pass.png)
+
+
 # About us  |  关于我们
 Hi there !This is EUthana P & EVE ^^ 
 
