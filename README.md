@@ -236,7 +236,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 #### bowlroll pass:
 
-![](image/pass.png)
+![](image/karma.png)
 
 
 # About us  |  关于我们
