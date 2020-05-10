@@ -259,9 +259,9 @@ In order to protect Edward, how many years did Grace send him in the future? (pl
 
 #### pass hint | 密码提示
 
-You could find password at Official character comic 'Quantum Leap', Master Dungeon story.
+You could find password at Official character comic 'Quantum Leap', Master Dungeon story and Grace's legacy.
 
-ADD的有声漫画，14C的主线剧情以及Elwiki中文角色花絮中均有提到。
+ADD的有声漫画，14C的主线剧情以及Elwiki中格蕾丝角色介绍中均有提到。
 
 
 # About us  |  关于我们
