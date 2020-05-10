@@ -249,7 +249,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ![](image/grace.png)
 
-#### bowlroll pass:
+#### Zip pass:
 
 In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
 
