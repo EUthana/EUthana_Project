@@ -239,6 +239,31 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 ![](image/karma.png)
 
 
+## 2020.05.10 Grace & Edward
+
+![](image/名场面2.png)
+
+### [BowlRoll DL page](https://bowlroll.net/file/225888)
+
+#### bowlroll pass:
+
+![](image/grace.png)
+
+#### bowlroll pass:
+
+In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
+
+
+为了保护爱德华，格蕾丝将他送往了多少年后的世界？请用纯数字回答
+
+
+#### pass hint | 密码提示
+
+You could find password at Official character comic 'Quantum Leap', Master Dungeon story.
+
+ADD的有声漫画，14C的主线剧情以及Elwiki中文角色花絮中均有提到。
+
+
 # About us  |  关于我们
 Hi there !This is EUthana P & EVE ^^ 
 
