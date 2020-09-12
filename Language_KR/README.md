@@ -8,7 +8,7 @@
 ![](image/MAZE_Poster.png) 
 
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/198273)
+### ▶ [BowRoll 페이지](https://bowlroll.net/file/198273)
 
 
 
