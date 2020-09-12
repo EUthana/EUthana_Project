@@ -2,9 +2,11 @@
 
 
 
+# 한국어 페이지 번역은 @S_0907__에서 이루어진다 그녀의 도움에 감사할께. u3u
+
 # ▉ 모형 다운로드 ▉  
 
-## ▏2019.5.21 MAZE 모듈러조합 （닫다） ▏
+## ▏2019.5.21 MAZE 모델 시리즈 (단종) ▏
 ![](image/MAZE_Poster.png) 
 
 
@@ -13,7 +15,7 @@
 
 
 
-## ▏2019.5.31 RG & DL 모듈러조합 （닫다） ▏
+## ▏2019.5.31 드레드로드 & 로열가드 모델 (단종) ▏
 ![](image/1.jpg)
 
 
@@ -24,20 +26,21 @@
 
 
 
-## ▏2019.7.3 & 7.4 애드 모듈러조합 ▏
+## ▏2019.7.3 & 7.4 애드 3차 모델팩 ▏
 
 ![](image/ADD.png)
 
 ### ▶ [BowlRoll 페이지](https://bowlroll.net/file/201755)
 
 
-###  만약 당신이 비밀번호 제시에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐. [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
+###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
+ [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
 
 ### • bowlroll 비밀번호:
 
-질문에 대한 답을 영문으로 입력해죠 （※ case sensitive and space）
+질문에 대한 답을 영문으로 입력해주세요. (*대소문자와 띄어쓰기를 구분합니다)
 
 
 
@@ -45,7 +48,7 @@
 
 ### • Zip 비밀번호:
 
-질문에 대한 답을 영문으로 입력해죠 （※ 영어 알파벳은 대소문자 구별이 있고 공란도 있다）
+질문에 대한 답을 영문으로 입력해주세요. (*대소문자와 띄어쓰기를 구분합니다)
 
 
 
@@ -53,16 +56,15 @@
 
 ![](image/DB_preview.png)
 
-### • 둠 브링어
+### • 둠 브링어 비밀번호
 
-꼬리 모양 금속 장식물이 몇 개나 되는지 숫자로 대답해죠.
-
+꼬리 모양 장식물이 몇 개나 되는지 숫자로 대답해주세요.
 
 ![](image/DM_preview.png)
 
-### • 도미네이터
+### • 도미네이터 비밀번호
 
-이 지점의 배경은 이 역할의 어느 지점의 배경과 비슷할까.직업 이름에 대답해죠.(※ 대문자 및 공란 포함)
+도미네이터의 뒷이야기는 누구의 뒷 이야기를 참고했습니까. 클래스 명만 입력해주세요(*대소문자와 띄어쓰기를 구분합니다)
 
 
 ![](image/MP_preview.png)
@@ -70,24 +72,23 @@
 
 ![](image/MP_TF_preview.png)
 
-### • 매드 패러독스
+### • 매드패러독스 비밀번호
 
-매드패러독스는 더 이상 물리적인 존재가 아니어--?-- 대답'?'의 영어 (※ 공란 없이 모두 소문자이므로, 엘위키 영문 프로필을 참고하여 공란을 채울 것을 권장해.)
+매드 패러독스는 더 이상 물리적 존재가 아닙니다. 대신, 그는 이제 시간과 공간의 --로 변덕스러운 외모를 가지고 아이 같은 기본 외모를 설명합니다. -안에 들어갈 영어 단어는? (*공란없이 모두 소문자이며, 엘위키(영문)를 참고하시는 것을 권장합니다.)
 
-
-## ▏ 2019.8.12 아인 모듈러조합 ▏
+## ▏ 2019.8.12 아인 3차 모델 팩 ▏
 
 ![](image/Ain2.png)
 
 ### ▶ [BowlRoll DL page](https://bowlroll.net/file/205019)
 
-### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+### 만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요. [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
 
 ### • bowlroll pass:
 
-please use English to answer this question （※ case sensitive and space）
+질문에 대한 답을 영문으로 입력해주세요. (*대소문자와 띄어쓰기를 구분합니다)
 
 
 
@@ -97,14 +98,12 @@ please use English to answer this question （※ case sensitive and space）
 
 01101110 01100001 01101101 01100101 00100000 01101111 01100110 00100000 01110100 01101000 01100101 00100000 01100111 01101111 01100100 00100000 01101111 01100110 00100000 01101100 01101001 01100111 01101000 01110100 00100110 01101110 01100001 01101101 01100101 00100000 01101111 01100110 00100000 01110100 01101000 01100101 00100000 01100111 01101111 01100100 00100000 01101111 01100110 00100000 01100100 01100001 01110010 01101011 01101110 01100101 01110011 01110011 
 
-the pass format is (Aaaa&Bbbb)and no space
-
+비밀번호의 형식은 (Aaaa & Bbbb)이며 띄어쓰기는 없습니다.
 
 
 ### • Character pass:
 
-Please enter the item's name in English. （※ case sensitive and space）
-
+해당 아이템이름을 영어로 입력해주세요. (*대소문자와 띄어쓰기를 구분하며, 엘위키(영문)를 참고하시는 것을 권장합니다.)
 
 
 ▷ Richter--![](image/RicJC.png)
@@ -113,18 +112,18 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ▷ Herrscher--![](image/Job_Change_-_Herrscher.png)
 
-#### key words:Job change item 
+#### key words:전직아이템
 
 
 
-#### gravity manipuation I used in my PV  
-#### (if you need to keep their costume floating,you could try them)
+#### 내가 만든 영상에서 사용한 중력 조작의 값은 이렇습니다.
+#### (만약 당신이 의상을 떠있게 유지해야하는 경우 시도해 볼 수 있습니다.)
 
 
 
 ![](image/phx2.png)
 
-## ▏2019.10.12 Ain weapon Pack DL ▏
+## ▏2019.10.12 아인 무기 모델 팩 ▏
 
 ![](image/way.png)
 
@@ -135,7 +134,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 ![](image/pass.png)
 
 
-## ▏2019.12.12 Ciel 3rd Job Pack DL  ▏
+## ▏2019.12.12 시엘 3차 모델 팩  ▏
 ![](image/xer1.png)
 
 ### ▶ [BowlRoll DL page](https://bowlroll.net/file/213606)
@@ -166,7 +165,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 #### key words:Job change item
 
 
-## ▏2019.12.27 trinityACE Pack DL  ▏
+## ▏2019.12.27 trinityACE 모델 팩 ▏
 
 ![](image/ACE配布图3.png)
 
@@ -175,7 +174,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 ![](image/passACE.png)
 
 
-## 2020.03.24 Otome Kaibou Accessory DL
+## 2020.03.24 소녀해부 악세서리 팩
 
 ![](image/otome.png)
 
@@ -188,7 +187,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 
-## ▏2020.04.27 Lofty: Wanderer Wedding 2020 ▏
+## ▏2020.04.27 2020 롭티 : 원더러 웨딩 팩 ▏
 
 ![](image/karma2.png)
 
@@ -199,7 +198,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 ![](image/karma.png)
 
 
-## ▏2020.05.10 Grace & Edward ▏
+## ▏2020.05.10 그레이스 & 에드워드 ▏
 
 ![](image/名场面2.png)
 
@@ -211,19 +210,20 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ### ● Zip pass:
 
-In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
+에드워드를 보호하기 위해 그레이스는 그를 몇 년 이후로 보냈습니까? (*숫자로 답해주세요)
 
 #### pass hint 
 
-You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
+공식 캐릭터 코믹 '퀀텀리프', 그레이스의 유산에서 비밀번호를 찾을 수 있습니다. (*영어이며, 엘위키(영문)를 참고하시는 것을 권장합니다.)  [Grace's legacy](https://elwiki.net/w/Grace)
 
 
-# ▉ About us  ▉
-Hi there !This is EUthana P & EVE ^^ 
+# ▉ 소개글  ▉
 
-This is a blog about my MMD models & Original MMD PV, mostly it contains DL link and model & PV  preview image.
+안녕하세요! 나는 EUthana P & EVE라고 합니다. ^^
 
-If you have any question about these models, please contact us.
+이것은 원래 내 MMD 모델 및 MMD PV에 대한 사이트이며, 대부분 모델 팩의 링크와 모델 및 PV미리보기가 포함되어 있습니다.
+
+이 모델에 대한 질문이 있으시면 연락해주세요.
 
 
 
