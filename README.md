@@ -11,4 +11,4 @@
 ## ▷ [简体中文](https://euthana.github.io/EUthana_Project/Language_CHS/)
 ## ▷ [繁體中文](https://euthana.github.io/EUthana_Project/Language_CHT/)
 ## ▷ [한국어](https://euthana.github.io/EUthana_Project/Language_KR/)
-## ▷ [日本語](https://euthana.github.io/EUthana_Project/Language_JP/)
+## ▷ [日本語 未開](https://euthana.github.io/EUthana_Project/Language_JP/)
