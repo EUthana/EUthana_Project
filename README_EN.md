@@ -1,10 +1,5 @@
 ![](image/EU2.png)
 
-# PV Design Stuff （draft & WIP）|  PV 设计相关 
-![](image/DLRGdream-1.jpg) 
-
-## Unknown mother-goose design draft and storyline (未知鹅妈妈童谣的分镜及剧情稿集合）
-[在bilibili上阅读 Chinese version](https://www.bilibili.com/read/cv2523141)
 
 
 # Model DL  | 模型配布
