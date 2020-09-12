@@ -8,7 +8,7 @@
 ![](image/MAZE_Poster.png) 
 
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/198273)
+### ▶ [BowRoll 下载页面](https://bowlroll.net/file/198273)
 
 
 
@@ -17,10 +17,10 @@
 ![](image/1.jpg)
 
 
-###  ▶ [DreadLord DL page](https://bowlroll.net/file/199004)
+###  ▶ [BowRoll 下载页面](https://bowlroll.net/file/199004)
 
 
-###  ▶ [RoyalGuard DL page](https://bowlroll.net/file/199005) 
+###  ▶ [BowRoll 下载页面](https://bowlroll.net/file/199005) 
 
 
 
@@ -70,7 +70,7 @@
 
 ### • 轮回迷途者
 
-轮回迷途者不再是个物理上的存在，成为了时空中无固定姿态的--?--，这也是立绘为幼年形态的原因。请回答‘？’的英文 （※ 无空格，全小写，建议参照elwiki英文角色花絮进行完形填空）
+轮回迷途者不再是个物理上的存在，成为了时空中无固定姿态的--?--，这也是立绘为幼年形态的原因。请回答‘？’的英文 （※ 无空格，全小写，建议参照elwiki英文职业花絮进行完形填空）
 
 
 ## ▏ 2019.8.12 艾因三转模型整合 ▏
@@ -210,7 +210,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 #### 密码提示
 
-你可以在艾迪有声漫画系列，以及领导者系列副本剧情或者格 [格蕾丝人物页面](https://elwiki.net/w/Grace)找到密码信息
+你可以在艾迪有声漫画系列，以及领导者系列副本剧情或者 [格蕾丝人物页面](https://elwiki.net/w/Grace)找到密码信息
 
 # ▉ 关于我们  ▉
 
