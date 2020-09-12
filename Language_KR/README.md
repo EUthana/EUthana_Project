@@ -4,6 +4,7 @@
 
 # 한국어 페이지 번역은 @S_0907__에서 이루어진다 그녀의 도움에 감사할께. u3u
 
+
 # ▉ 모형 다운로드 ▉  
 
 ## ▏2019.5.21 MAZE 모델 시리즈 (단종) ▏
@@ -80,13 +81,13 @@
 
 ![](image/Ain2.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/205019)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/205019)
 
 ### 만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요. [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
 
-### • bowlroll pass:
+### • bowlroll 비밀번호:
 
 질문에 대한 답을 영문으로 입력해주세요. (*대소문자와 띄어쓰기를 구분합니다)
 
@@ -94,25 +95,25 @@
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • ZIP pass:
+### • ZIP 비밀번호:
 
 01101110 01100001 01101101 01100101 00100000 01101111 01100110 00100000 01110100 01101000 01100101 00100000 01100111 01101111 01100100 00100000 01101111 01100110 00100000 01101100 01101001 01100111 01101000 01110100 00100110 01101110 01100001 01101101 01100101 00100000 01101111 01100110 00100000 01110100 01101000 01100101 00100000 01100111 01101111 01100100 00100000 01101111 01100110 00100000 01100100 01100001 01110010 01101011 01101110 01100101 01110011 01110011 
 
 비밀번호의 형식은 (Aaaa & Bbbb)이며 띄어쓰기는 없습니다.
 
 
-### • Character pass:
+### • Character 비밀번호:
 
 해당 아이템이름을 영어로 입력해주세요. (*대소문자와 띄어쓰기를 구분하며, 엘위키(영문)를 참고하시는 것을 권장합니다.)
 
 
-▷ Richter--![](image/RicJC.png)
+▷ 리히터--![](image/RicJC.png)
 
-▷ Bluhen--![](image/BluJC.png)
+▷ 블루헨--![](image/BluJC.png)
 
-▷ Herrscher--![](image/Job_Change_-_Herrscher.png)
+▷ 헤르셔--![](image/Job_Change_-_Herrscher.png)
 
-#### key words:전직아이템
+#### 키워드:전직아이템
 
 
 
@@ -127,9 +128,9 @@
 
 ![](image/way.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/208825)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/208825)
 
-### • bowlroll pass:
+### • bowlroll 비밀번호:
 
 ![](image/pass.png)
 
@@ -137,39 +138,42 @@
 ## ▏2019.12.12 시엘 3차 모델 팩  ▏
 ![](image/xer1.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/213606)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/213606)
 
-### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
+ [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
-### • bowlroll pass:
 
-please use English to answer this question （※ case sensitive and space）
+### • bowlroll 비밀번호:
+
+질문에 대한 답을 영문으로 입력해주세요. (*대소문자와 띄어쓰기를 구분합니다)
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • ZIP pass:
+### • ZIP 비밀번호:
 
 01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01000011 01101001 01100101 01101100 00100111 01110011 00100000 01100100 01100101 01100011 01100001 01110011 01100101 01100100 00100000 01110011 01101001 01110011 01110100 01100101 01110010 00100111 01110011 00100000 01101110 01100001 01101101 01100101 00111111 
 
-### • Character pass:
+### • Character 비밀번호:
 
-Please enter the item's name in English. （※ case sensitive and space）
+해당 아이템이름을 영어로 입력해주세요. (*대소문자와 띄어쓰기를 구분하며, 엘위키(영문)를 참고하시는 것을 권장합니다.)
 
 
-▷ Abysser--![](image/CaTJC.png)
 
-▷ Chevalier--![](image/InnoJC.png)
+▷ 어비셔--![](image/CaTJC.png)
 
-▷ Anular--![](image/Job_Change_-_Diangelion.png)
+▷ 슈발리에--![](image/InnoJC.png)
 
-#### key words:Job change item
+▷ 아눌라르--![](image/Job_Change_-_Diangelion.png)
+
+#### 키워드:전직아이템
 
 
 ## ▏2019.12.27 trinityACE 모델 팩 ▏
 
 ![](image/ACE配布图3.png)
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/214499)
+### ▶ [BowRoll 페이지](https://bowlroll.net/file/214499)
 
 ![](image/passACE.png)
 
@@ -178,11 +182,11 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ![](image/otome.png)
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/221225)
+### ▶ [BowRoll 페이지](https://bowlroll.net/file/221225)
 
 ![](image/16.png)
 
-### ● ZIP pass: 
+### ● ZIP 비밀번호: 
 
 The name of the character which shown on the 3rd min of PV (All Capital letters)
 
@@ -191,9 +195,9 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ![](image/karma2.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/224285)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/224285)
 
-#### bowlroll pass:
+#### bowlroll 비밀번호:
 
 ![](image/karma.png)
 
@@ -202,17 +206,17 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ![](image/名场面2.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/225888)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/225888)
 
-### ● bowlroll pass:
+### ● bowlroll 비밀번호:
 
 ![](image/grace.png)
 
-### ● Zip pass:
+### ● Zip 비밀번호:
 
 에드워드를 보호하기 위해 그레이스는 그를 몇 년 이후로 보냈습니까? (*숫자로 답해주세요)
 
-#### pass hint 
+#### 비밀번호 힌트
 
 공식 캐릭터 코믹 '퀀텀리프', 그레이스의 유산에서 비밀번호를 찾을 수 있습니다. (*영어이며, 엘위키(영문)를 참고하시는 것을 권장합니다.)  [Grace's legacy](https://elwiki.net/w/Grace)
 
