@@ -222,7 +222,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 #### 비밀번호 힌트
 
-공식 캐릭터 코믹 '퀀텀리프', 그레이스의 유산에서 비밀번호를 찾을 수 있습니다. (*영어이며, 엘위키(영문)를 참고하시는 것을 권장합니다.)  [Grace's legacy](https://elwiki.net/w/Grace)
+공식 캐릭터 코믹 '퀀텀리프', 그레이스의 유산에서 비밀번호를 찾을 수 있습니다. (*공란없이 모두 소문자이며, 엘위키(영문)에 해당 문장으로 된 영문이 존재합니다. 너무 어렵다면 개인적으로 연락해주세요.)  [Grace's legacy](https://elwiki.net/w/Grace)
 
 
 # ▉ 소개글  ▉
