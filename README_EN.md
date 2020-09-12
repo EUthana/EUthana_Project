@@ -43,7 +43,7 @@ please use English to answer this question （※ case sensitive and space）
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-#### • Zip Pass:
+### • Zip Pass:
 
 please use English to answer this question （※ case sensitive and space）
 
@@ -53,7 +53,7 @@ please use English to answer this question （※ case sensitive and space）
 
 ![](image/DB_preview.png)
 
-#### • DoomBringer's pass
+### • DoomBringer's pass
 
 How many tail-like belts does this character have? Please answer with number(s).
 
@@ -61,7 +61,7 @@ How many tail-like belts does this character have? Please answer with number(s).
 
 ![](image/DM_preview.png)
 
-#### • Dominator's pass
+### • Dominator's pass
 
 Dominator's backstory references whos's backstory? Only the class name.（※ case sensitive and space）
 
@@ -72,7 +72,7 @@ Dominator's backstory references whos's backstory? Only the class name.（※ ca
 
 ![](image/MP_TF_preview.png)
 
-#### • MadParadox's pass
+### • MadParadox's pass
 
 Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
@@ -133,7 +133,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ### ▶ [BowlRoll DL page](https://bowlroll.net/file/208825)
 
-#### • bowlroll pass:
+### • bowlroll pass:
 
 ![](image/pass.png)
 
@@ -145,17 +145,17 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
-## • bowlroll pass:
+### • bowlroll pass:
 
 please use English to answer this question （※ case sensitive and space）
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-## • ZIP pass:
+### • ZIP pass:
 
 01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01000011 01101001 01100101 01101100 00100111 01110011 00100000 01100100 01100101 01100011 01100001 01110011 01100101 01100100 00100000 01110011 01101001 01110011 01110100 01100101 01110010 00100111 01110011 00100000 01101110 01100001 01101101 01100101 00111111 
 
-## • Character pass:
+### • Character pass:
 
 Please enter the item's name in English. （※ case sensitive and space）
 
@@ -186,7 +186,7 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ![](image/16.png)
 
-## ● ZIP pass: 
+### ● ZIP pass: 
 
 The name of the character which shown on the 3rd min of PV (All Capital letters)
 
@@ -208,20 +208,17 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ### ▶ [BowlRoll DL page](https://bowlroll.net/file/225888)
 
-#### ● bowlroll pass:
+### ● bowlroll pass:
 
 ![](image/grace.png)
 
-#### ● Zip pass:
+### ● Zip pass:
 
 In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
-
-
 
 #### pass hint 
 
 You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
-
 
 
 # ▉ About us  ▉
