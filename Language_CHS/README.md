@@ -2,9 +2,9 @@
 
 
 
-# ▉ Model DL ▉  
+# ▉ 模型下载 ▉  
 
-## ▏2019.5.21 MAZE Group Model Pack （DL DOWN） ▏
+## ▏2019.5.21 MAZE 组合系列 （停配） ▏
 ![](image/MAZE_Poster.png) 
 
 
@@ -13,7 +13,7 @@
 
 
 
-## ▏2019.5.31 RG & DL Model （DL DOWN） ▏
+## ▏2019.5.31 皇家护卫 & 恐惧魔王 （停配） ▏
 ![](image/1.jpg)
 
 
@@ -24,28 +24,27 @@
 
 
 
-## ▏2019.7.3 & 7.4 ADD MODEL PACK DL ▏
+## ▏2019.7.3 & 7.4 艾迪三转模型整合 ▏
 
 ![](image/ADD.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/201755)
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/201755)
 
 
-###  If you have no idea with the hint,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+### 如果你对密码提示感觉困难，请先阅读 [这个](https://euthana.github.io/EUthana_Project/About_Pass/) 页面
 
 
 
-### • bowlroll pass:
+### • bowlroll 密码:
 
-please use English to answer this question （※ case sensitive and space）
-
+请使用英文回答这个问题 （※ 包含大写以及空格）
 
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • Zip Pass:
+### • ZIP 压缩包解压密码:
 
-please use English to answer this question （※ case sensitive and space）
+请使用英文回答这个问题 （※ 包含大写以及空格）
 
 
 
@@ -53,18 +52,15 @@ please use English to answer this question （※ case sensitive and space）
 
 ![](image/DB_preview.png)
 
-### • DoomBringer's pass
+### • 末日毁灭者
 
-How many tail-like belts does this character have? Please answer with number(s).
-
-
+该角色有多少尾状金属装饰物，请用纯数字回答。
 
 ![](image/DM_preview.png)
 
-### • Dominator's pass
+### • 空间支配者
 
-Dominator's backstory references whos's backstory? Only the class name.（※ case sensitive and space）
-
+该分支的职业的背景和该角色哪个分支的职业背景相似？请回答职业名字。（※ 包含大写以及空格）
 
 
 ![](image/MP_preview.png)
@@ -72,164 +68,161 @@ Dominator's backstory references whos's backstory? Only the class name.（※ ca
 
 ![](image/MP_TF_preview.png)
 
-### • MadParadox's pass
+### • 轮回迷途者
 
-Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
+轮回迷途者不再是个物理上的存在，成为了时空中无固定姿态的--?--，这也是立绘为幼年形态的原因。请回答‘？’的英文 （※ 无空格，全小写，建议参照elwiki英文角色花絮进行完形填空）
 
 
-
-## ▏ 2019.8.12 Ain Model Pack DL ▏
+## ▏ 2019.8.12 艾因三转模型整合 ▏
 
 ![](image/Ain2.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/205019)
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/205019)
 
-### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+### 如果你对密码提示感觉困难，请先阅读 [这个](https://euthana.github.io/EUthana_Project/About_Pass/) 页面
 
 
 
-### • bowlroll pass:
+### • bowlroll 密码:
 
-please use English to answer this question （※ case sensitive and space）
+请使用英文回答这个问题 （※ 包含大写以及空格）
 
 
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • ZIP pass:
+### • ZIP 解压密码:
 
 01101110 01100001 01101101 01100101 00100000 01101111 01100110 00100000 01110100 01101000 01100101 00100000 01100111 01101111 01100100 00100000 01101111 01100110 00100000 01101100 01101001 01100111 01101000 01110100 00100110 01101110 01100001 01101101 01100101 00100000 01101111 01100110 00100000 01110100 01101000 01100101 00100000 01100111 01101111 01100100 00100000 01101111 01100110 00100000 01100100 01100001 01110010 01101011 01101110 01100101 01110011 01110011 
 
-the pass format is (Aaaa&Bbbb)and no space
+密码格式是Aaaa&Bbbb，并且无空格
+
+
+### • 角色解压密码:
+
+请用英文输入下列物品的名称（※ 包含大写以及空格） 
+
+
+▷ 裁决者--![](image/RicJC.png)
+
+▷ 绽情师--![](image/BluJC.png)
+
+▷ 统御家--![](image/Job_Change_-_Herrscher.png)
+
+#### 密码提示 商城氪金的三转转职道具
 
 
 
-### • Character pass:
-
-Please enter the item's name in English. （※ case sensitive and space）
-
-
-
-▷ Richter--![](image/RicJC.png)
-
-▷ Bluhen--![](image/BluJC.png)
-
-▷ Herrscher--![](image/Job_Change_-_Herrscher.png)
-
-#### key words:Job change item 
-
-
-
-#### gravity manipuation I used in my PV  
-#### (if you need to keep their costume floating,you could try them)
+#### 个人推荐的模型物理使用参数 
+#### (如果你需要让模型的衣物保持悬浮状态，可以使用该参数)
 
 
 
 ![](image/phx2.png)
 
-## ▏2019.10.12 Ain weapon Pack DL ▏
+## ▏2019.10.12 Ain 灵摆+武器整合 ▏
 
 ![](image/way.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/208825)
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/208825)
 
-### • bowlroll pass:
+### • bowlroll 密码:
 
 ![](image/pass.png)
 
 
-## ▏2019.12.12 Ciel 3rd Job Pack DL  ▏
+## ▏2019.12.12 希尔三转模型整合  ▏
 ![](image/xer1.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/213606)
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/213606)
 
-### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+### 如果你对密码提示感觉困难，请先阅读 [这个](https://euthana.github.io/EUthana_Project/About_Pass/) 页面
 
-### • bowlroll pass:
+### • bowlroll 密码:
 
-please use English to answer this question （※ case sensitive and space）
+请使用英文回答这个问题 （※ 包含大写以及空格）
 
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • ZIP pass:
+### • ZIP 解压密码:
 
 01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01000011 01101001 01100101 01101100 00100111 01110011 00100000 01100100 01100101 01100011 01100001 01110011 01100101 01100100 00100000 01110011 01101001 01110011 01110100 01100101 01110010 00100111 01110011 00100000 01101110 01100001 01101101 01100101 00111111 
 
-### • Character pass:
+### • 角色解压密码:
 
 Please enter the item's name in English. （※ case sensitive and space）
 
 
-▷ Abysser--![](image/CaTJC.png)
+▷ 深渊魔皇--![](image/CaTJC.png)
 
-▷ Chevalier--![](image/InnoJC.png)
+▷ 皇族爵士--![](image/InnoJC.png)
 
-▷ Anular--![](image/Job_Change_-_Diangelion.png)
+▷ 杀戮夜魔--![](image/Job_Change_-_Diangelion.png)
 
-#### key words:Job change item
+#### 商城三转氪金转职道具
 
 
-## ▏2019.12.27 trinityACE Pack DL  ▏
+## ▏2019.12.27 trinityACE 组合模型  ▏
 
 ![](image/ACE配布图3.png)
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/214499)
+### ▶ [BowRoll 下载页面](https://bowlroll.net/file/214499)
 
 ![](image/passACE.png)
 
 
-## 2020.03.24 Otome Kaibou Accessory DL
+## ▏2020.03.24 乙女解剖字幕+附件下载 ▏
 
 ![](image/otome.png)
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/221225)
+### ▶ [BowRoll 下载页面](https://bowlroll.net/file/221225)
 
 ![](image/16.png)
 
-### ● ZIP pass: 
+### ● ZIP 解压密码: 
 
-The name of the character which shown on the 3rd min of PV (All Capital letters)
+请输入PV第三分钟出现的角色名字（全大写）
 
-
-## ▏2020.04.27 Lofty: Wanderer Wedding 2020 ▏
+## ▏2020.04.27 漫游者2020婚纱 ▏
 
 ![](image/karma2.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/224285)
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/224285)
 
-#### bowlroll pass:
+#### bowlroll 密码:
 
 ![](image/karma.png)
 
 
-## ▏2020.05.10 Grace & Edward ▏
+## ▏2020.05.10 爱德华&格蕾丝模型整合 ▏
 
 ![](image/名场面2.png)
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/225888)
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/225888)
 
-### ● bowlroll pass:
+### ● bowlroll 密码:
 
 ![](image/grace.png)
 
-### ● Zip pass:
+### ● Zip 解压密码:
 
-In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
+为了保护爱德华，他的母亲将他送往多少年后的未来？（请用纯数字回答）
 
-#### pass hint 
+#### 密码提示
 
-You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
+你可以在艾迪有声漫画系列，以及领导者系列副本剧情或者格 [格蕾丝人物页面](https://elwiki.net/w/Grace)找到密码信息
 
+# ▉ 关于我们  ▉
 
-# ▉ About us  ▉
-Hi there !This is EUthana P & EVE ^^ 
+你好^^ 这里是EU和EVE
 
-This is a blog about my MMD models & Original MMD PV, mostly it contains DL link and model & PV  preview image.
+这是关于我们原创MMD的博客，用于模型公开下载。
 
-If you have any question about these models, please contact us.
-
-
+如果你对模型有任何问题，请联系我们！
 
 ▷ Tiwtter : EUthana_Lau    
 
+▷ bilibili：EUthanaP
+
 ▷ Weibo：EUthanaP
+
