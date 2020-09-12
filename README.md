@@ -2,7 +2,7 @@
 
 
 
-# ▉ Welcome! ▉  
+# ▉ Welcome to EUthana Project! ▉  
 
 # ▉ please select the language you prefer ▉  
 
