@@ -79,7 +79,7 @@
 
 ### • 매드패러독스 비밀번호
 
-매드 패러독스는 더 이상 물리적 존재가 아닙니다. 대신, 그는 이제 시간과 공간의 --로 변덕스러운 외모를 가지고 아이 같은 기본 외모를 설명합니다. -안에 들어갈 영어 단어는? (*공란없이 모두 소문자이며, 엘위키(영문)에 해당 문장으로 된 영문이 존재합니다. 너무 어렵다면 개인적으로 연락해주세요.)
+Mad Paradox is no longer a physical being. Instead, he is now an ---?--- in time and space with a fluctuating appearance, explaining his child-like default appearance. 영어 문장에 들어갈 영어 단어를 입력해주세요.(*띄어쓰기 없이 모두 소문자이며, 엘위키(영문)를 참고하시는 것을 권장합니다.)
 
 ## ▏ 2019.8.12 아인 3차 모델 팩 ▏
 
