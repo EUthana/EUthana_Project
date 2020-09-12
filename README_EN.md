@@ -182,55 +182,49 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ![](image/otome.png)
 
-### [BowRoll DL page](https://bowlroll.net/file/221225)
+### ▶ [BowRoll DL page](https://bowlroll.net/file/221225)
 
 ![](image/16.png)
 
-## ZIP pass: 
+## ● ZIP pass: 
 
 The name of the character which shown on the 3rd min of PV (All Capital letters)
 
-## 压缩包密码提示：
 
-在PV第3分钟时显示的人物名字（全大写字母）
-
-## 2020.04.27 Lofty: Wanderer Wedding 2020
+## ▏2020.04.27 Lofty: Wanderer Wedding 2020 ▏
 
 ![](image/karma2.png)
 
-### [BowlRoll DL page](https://bowlroll.net/file/224285)
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/224285)
 
 #### bowlroll pass:
 
 ![](image/karma.png)
 
 
-## 2020.05.10 Grace & Edward
+## ▏2020.05.10 Grace & Edward ▏
 
 ![](image/名场面2.png)
 
-### [BowlRoll DL page](https://bowlroll.net/file/225888)
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/225888)
 
-#### bowlroll pass:
+#### ● bowlroll pass:
 
 ![](image/grace.png)
 
-#### Zip pass:
+#### ● Zip pass:
 
 In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
 
 
-为了保护爱德华，格蕾丝将他送往了多少年后的世界？请用纯数字回答
+
+#### pass hint 
+
+You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
 
 
-#### pass hint | 密码提示
 
-You could find password at Official character comic 'Quantum Leap', Master Dungeon story and Grace's legacy.
-
-ADD的有声漫画，14C的主线剧情以及Elwiki中格蕾丝角色介绍中均有提到。
-
-
-# About us  |  关于我们
+# ▉ About us  ▉
 Hi there !This is EUthana P & EVE ^^ 
 
 This is a blog about my MMD models & Original MMD PV, mostly it contains DL link and model & PV  preview image.
@@ -238,13 +232,7 @@ This is a blog about my MMD models & Original MMD PV, mostly it contains DL link
 If you have any question about these models, please contact us.
 
 
-你好! 这里是EU 和 EVE ^^
 
-这是我的关于MMD模型配布的博客，大多数会在这里发布模型配布相关和模型预览图
+▷ Tiwtter : EUthana_Lau    
 
-如果你对我的模型有任何疑问或者更新的需求，请联系我们
-
-
-Tiwtter : EUthana_Lau    
-
-Weibo：EUthanaP
+▷ Weibo：EUthanaP
