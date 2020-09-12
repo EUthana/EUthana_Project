@@ -9,7 +9,7 @@
 
 
 
-# ▉ 모형 다운로드 ▉  
+# ▉ 모델 팩 다운로드 ▉  
 
 ## ▏2019.5.21 MAZE 모델 시리즈 (단종) ▏
 ![](image/MAZE_Poster.png) 
@@ -206,7 +206,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 ![](image/karma.png)
 
 
-## ▏2020.05.10 그레이스 & 에드워드 ▏
+## ▏2020.05.10 그레이스&에드워드 모델 팩 ▏
 
 ![](image/名场面2.png)
 
