@@ -2,7 +2,7 @@
 
 
 
-# ▉ Model DL ▉  
+# ▉ Model Distribution ▉  
 
 ## ▏2019.5.21 MAZE Group Model Pack （DL DOWN） ▏
 ![](image/MAZE_Poster.png) 
