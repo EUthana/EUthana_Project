@@ -212,6 +212,18 @@
 
 你可以在艾迪有声漫画系列，以及领导者系列副本剧情或者 [格蕾丝人物页面](https://elwiki.net/w/Grace)找到密码信息
 
+## ▏2020.09.12 Ain 绽情师实验模型 Beta版本 ▏
+
+![](Language_KR/image/beta.png)
+
+### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/236010)
+
+### ● bowlroll 密码:
+
+![](Language_KR/image/0912.png)
+
+
+
 # ▉ 关于我们  ▉
 
 你好^^ 这里是EU和EVE
