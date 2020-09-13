@@ -225,6 +225,18 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 공식 캐릭터 코믹 '퀀텀리프', 그레이스의 유산에서 비밀번호를 찾을 수 있습니다. (*영어이며, 엘위키(영문)를 참고하시는 것을 권장합니다.)  [Grace's legacy](https://elwiki.net/w/Grace)
 
 
+## ▏2020.09.12 아인 블루헨 1.02 Beta 버전 ▏
+
+![](image/beta.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/236010)
+
+### ● bowlroll 비밀번호:
+
+![](image/0912.png)
+
+
+
 # ▉ 소개글  ▉
 
 안녕하세요! 나는 EUthana P & EVE라고 합니다. ^^
