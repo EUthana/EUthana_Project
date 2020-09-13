@@ -150,7 +150,7 @@
 
 ### • 角色解压密码:
 
-Please enter the item's name in English. （※ case sensitive and space）
+请用英文输入下列物品的名称（※ 包含大写以及空格） 
 
 
 ▷ 深渊魔皇--![](image/CaTJC.png)
