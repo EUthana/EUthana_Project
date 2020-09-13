@@ -38,8 +38,7 @@
 ### ▶ [BowlRoll 페이지](https://bowlroll.net/file/201755)
 
 
-###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
- [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
+###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요. [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 
 
