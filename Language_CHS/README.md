@@ -214,13 +214,13 @@
 
 ## ▏2020.09.12 Ain 绽情师实验模型 Beta版本 ▏
 
-![](Language_KR/image/beta.png)
+![](image/beta.png)
 
 ### ▶ [BowlRoll 下载页面](https://bowlroll.net/file/236010)
 
 ### ● bowlroll 密码:
 
-![](Language_KR/image/0912.png)
+![](image/0912.png)
 
 
 
