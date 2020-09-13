@@ -220,6 +220,17 @@ In order to protect Edward, how many years did Grace send him in the future? (pl
 
 You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
 
+## ▏2020.09.12 Ain Bluhen 1.02 Beta Version ▏
+
+![](image/beta.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/236010)
+
+### ● bowlroll pass:
+
+![](image/0912.png)
+
+
 
 # ▉ About us  ▉
 Hi there !This is EUthana P & EVE ^^ 
