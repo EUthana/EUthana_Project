@@ -240,7 +240,11 @@ You could find password at Official character comic 'Quantum Leap', Master Dunge
 
 ![](image/XIEXIE.png)
 
+## ▏2020.11.16 Chungha-Snapping Stage ▏
 
+![](image/Snapping1.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/240824)
 
 
 # ▉ About us  ▉
