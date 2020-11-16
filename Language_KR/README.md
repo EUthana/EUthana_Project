@@ -234,6 +234,22 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ![](image/0912.png)
 
+## ▏2020.11.16 헤르셔&헤니르 모델 팩 ▏
+
+![](image/Snapping.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/240825)
+
+### ● bowlroll 비밀번호:
+
+![](image/XIEXIE.png)
+
+## ▏2020.11.16 김청하-Snapping 무대 ▏
+
+![](image/Snapping1.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/240824)
+
 
 
 # ▉ 소개글  ▉
