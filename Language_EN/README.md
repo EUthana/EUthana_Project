@@ -248,7 +248,7 @@ You could find password at Official character comic 'Quantum Leap', Master Dunge
 
 ## ▏2020.12.27 2020 Elsword Birthday Special ▏
 
-![](image/1227_cover.png)
+![](image/bbb.png)
 
 ### ▶ [BowlRoll DL](https://bowlroll.net/file/243746)
 
