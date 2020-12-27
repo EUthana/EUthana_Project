@@ -252,7 +252,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ## ▏2020.12.27 2020 엘소드 생일 선물 ▏
 
-![](image/1227_cover.png)
+![](image/bbb.png)
 
 ### ▶ [BowlRoll 페이지](https://bowlroll.net/file/243746)
 
