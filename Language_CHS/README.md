@@ -241,7 +241,7 @@
 
 ## ▏2020.12.27 2020艾索德生日贺礼 ▏
 
-![](image/1227_cover.png)
+![](image/bbb.png)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/243746)
 
