@@ -2,7 +2,7 @@
 
 
 
-## 한국어 페이지 번역은 @S_0907__ 님의 도움을 받았습니다. 
+##  한국어 페이지 번역은 @S_hanren 님의 도움을 받았습니다. 
 
 ## 도와주셔서 감사합니다. uvu
 
@@ -258,10 +258,11 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ### ● bowlroll 비밀번호:
 
-Which game studio makes ELSOWRD?（All capitalization in English）
+엘소드 게임은 어느 회사에서 만들었습니까? (비밀번호는 영어이며 대문자입니다.)
+
 
 ### ● Zip 비밀번호:
-Which skill does KE's eyes turn completely blue when he uses it?（All English lowercase without spaces,17 characters in total）
+나이트 엠퍼러의 눈은 어떤 스킬을 사용할 때, 눈이 파랗게 변하나요? (비밀번호는 공백 없이 모든 영어는 소문자이며 총 17글자입니다.)
 
 #### 비밀번호 힌트
 
