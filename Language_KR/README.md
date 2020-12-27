@@ -250,6 +250,23 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 ### ▶ [BowlRoll 페이지](https://bowlroll.net/file/240824)
 
+## ▏2020.12.27 2020 엘소드 생일 선물 ▏
+
+![](image/1227_cover.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/243746)
+
+### ● bowlroll 비밀번호:
+
+Which game studio makes ELSOWRD?（All capitalization in English）
+
+### ● Zip 비밀번호:
+Which skill does KE's eyes turn completely blue when he uses it?（All English lowercase without spaces,17 characters in total）
+
+#### 비밀번호 힌트
+
+Elwiki 페이지에서 찾아보거나 Knight Emperor 플레이어에게 물어보세요! ;3
+
 
 
 # ▉ 소개글  ▉
