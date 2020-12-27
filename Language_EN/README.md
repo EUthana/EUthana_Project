@@ -246,6 +246,23 @@ You could find password at Official character comic 'Quantum Leap', Master Dunge
 
 ### ▶ [BowlRoll DL](https://bowlroll.net/file/240824)
 
+## ▏2020.12.27 2020 Elsword Birthday Special ▏
+
+![](image/1227_cover.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/243746)
+
+### ● bowlroll pass:
+
+Which game studio makes ELSOWRD?（All capitalization in English）
+
+### ● Zip pass:
+Which skill does KE's eyes turn completely blue when he uses it?（All English lowercase without spaces,17 characters in total）
+
+#### pass hint
+
+Check KE's page on Elwiki or Ask Elsword players please ;3
+
 
 # ▉ About us  ▉
 Hi there !This is EUthana P & EVE ^^ 
