@@ -258,7 +258,7 @@
 
 ## ▏2021.1.13 诺亚Liberator及月之领导者模组整合▏
 
-![](image/fengmian.png)
+![](image/fengmian1.png)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/245292)
 
