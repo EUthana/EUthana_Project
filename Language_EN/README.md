@@ -263,6 +263,16 @@ Which skill does KE's eyes turn completely blue when he uses it?（All English l
 
 Check KE's page on Elwiki or Ask Elsword players please ;3
 
+## ▏2021.1.13 Noah-Liberator & Moon Master Pack▏
+
+![](image/fengmian1.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/245292)
+
+### ● bowlroll pass:
+
+What is the last name of the moon master?
+
 
 # ▉ About us  ▉
 Hi there !This is EUthana P & EVE ^^ 
