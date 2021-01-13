@@ -256,6 +256,16 @@
 
 询问艾索德玩家，或者自强Elwiki
 
+## ▏2021.1.13 诺亚Liberator及月之领导者模组整合▏
+
+![](image/fengmian.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/245292)
+
+### ● bowlroll 密码:
+
+月之领导者的姓氏是什么？请用英文输入（首字母需大写）
+
 # ▉ 关于我们  ▉
 
 你好^^ 这里是EU和EVE
