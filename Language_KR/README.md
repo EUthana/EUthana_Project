@@ -268,7 +268,7 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 Elwiki 페이지에서 찾아보거나 Knight Emperor 플레이어에게 물어보세요! ;3
 
-## ▏2021.1.13 Noah-Liberator & Moon Master Pack▏
+## ▏2021.1.13 노아-리버레이터 & 달의 마스터 이벨른 팩▏
 
 ![](image/fengmian1.png)
 
@@ -276,7 +276,7 @@ Elwiki 페이지에서 찾아보거나 Knight Emperor 플레이어에게 물어�
 
 ### ● bowlroll 비밀번호:
 
-달 형제의 성씨
+노아와 달의 마스터의 성을 영어로? (첫 번째 문장은 대문자로, 나머지는 소문자입니다.)
 
 
 
