@@ -268,6 +268,16 @@ The name of the character which shown on the 3rd min of PV (All Capital letters)
 
 Elwiki 페이지에서 찾아보거나 Knight Emperor 플레이어에게 물어보세요! ;3
 
+## ▏2021.1.13 Noah-Liberator & Moon Master Pack▏
+
+![](image/fengmian1.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/245292)
+
+### ● bowlroll 비밀번호:
+
+달 형제의 성씨
+
 
 
 # ▉ 소개글  ▉
