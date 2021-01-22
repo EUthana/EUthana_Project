@@ -16,79 +16,147 @@
 
 ![](image/39.png)
 
-## ▏2019.5.21 MAZE Group Model Pack （DL DOWN） ▏
-![](image/MAZE_Poster.png) 
+## ▏2021.1.13 Noah-Liberator & Moon Master Pack▏
+
+![](image/fengmian1.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/245292)
+
+### ● bowlroll pass:
+
+What is the last name of the moon master?
+
+## ▏2020.12.27 2020 Elsword Birthday Special ▏
+
+![](image/bbb.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/243746)
+
+### ● bowlroll pass:
+
+Which game studio makes ELSOWRD?（All capitalization in English）
+
+### ● Zip pass:
+Which skill does KE's eyes turn completely blue when he uses it?（All English lowercase without spaces,17 characters in total）
+
+#### pass hint
+
+Check KE's page on Elwiki or Ask Elsword players please ;3
+
+## ▏2020.11.16 Chungha-Snapping Stage ▏
+
+![](image/Snapping1.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/240824)
+
+## ▏2020.11.16 Herrscher&Henir Pack ▏
+
+![](image/Snapping.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/240825)
+
+### ● bowlroll pass:
+
+![](image/XIEXIE.png)
+
+## ▏2020.09.12 Ain Bluhen 1.02 Beta Version ▏
+
+![](image/beta.png)
+
+### ▶ [BowlRoll DL](https://bowlroll.net/file/236010)
+
+### ● bowlroll pass:
+
+![](image/0912.png)
+
+## ▏2020.05.10 Grace & Edward ▏
+
+![](image/名场面2.png)
+
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/225888)
+
+### ● bowlroll pass:
+
+![](image/grace.png)
+
+### ● Zip pass:
+
+In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
+
+#### pass hint 
+
+You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
+
+## ▏2020.04.27 Lofty: Wanderer Wedding 2020 ▏
+
+![](image/karma2.png)
+
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/224285)
+
+#### bowlroll pass:
+
+![](image/karma.png)
+
+## 2020.03.24 Otome Kaibou Accessory DL
+
+![](image/otome.png)
+
+### ▶ [BowRoll DL page](https://bowlroll.net/file/221225)
+
+![](image/16.png)
+
+### ● ZIP pass: 
+
+The name of the character which shown on the 3rd min of PV (All Capital letters)
+
+## ▏2019.12.27 trinityACE Pack DL  ▏
+
+![](image/ACE配布图3.png)
+
+### ▶ [BowRoll DL page](https://bowlroll.net/file/214499)
+
+![](image/passACE.png)
+
+## ▏2019.10.12 Ain weapon Pack DL ▏
+
+![](image/way.png)
+
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/208825)
+
+### • bowlroll pass:
+
+![](image/pass.png)
 
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/198273)
+## ▏2019.12.12 Ciel 3rd Job Pack DL  ▏
+![](image/xer1.png)
 
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/213606)
 
-
-
-## ▏2019.5.31 RG & DL Model （DL DOWN） ▏
-![](image/1.jpg)
-
-
-###  ▶ [DreadLord DL page](https://bowlroll.net/file/199004)
-
-
-###  ▶ [RoyalGuard DL page](https://bowlroll.net/file/199005) 
-
-
-
-## ▏2019.7.3 & 7.4 ADD MODEL PACK DL ▏
-
-![](image/ADD.png)
-
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/201755)
-
-
-###  If you have no idea with the hint,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
-
-
+### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
 ### • bowlroll pass:
 
 please use English to answer this question （※ case sensitive and space）
 
-
-
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • Zip Pass:
+### • ZIP pass:
 
-please use English to answer this question （※ case sensitive and space）
+01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01000011 01101001 01100101 01101100 00100111 01110011 00100000 01100100 01100101 01100011 01100001 01110011 01100101 01100100 00100000 01110011 01101001 01110011 01110100 01100101 01110010 00100111 01110011 00100000 01101110 01100001 01101101 01100101 00111111 
 
+### • Character pass:
 
-
-01001001 01101110 00100000 01110100 01101000 01100101 00100000 01001010 01100001 01110000 01100001 01101110 01100101 01110011 01100101 00100000 01110011 01100101 01110010 01110110 01100101 01110010 00101100 00100000 01000001 01100100 01100100 00100111 01110011 00100000 01000100 01111001 01101110 01100001 01101101 01101111 01110011 00100000 01100001 01110010 01100101 00100000 01110010 01100101 01101110 01100001 01101101 01100101 01100100 00100000 01110100 01101111 00100000 00111111 
-
-![](image/DB_preview.png)
-
-### • DoomBringer's pass
-
-How many tail-like belts does this character have? Please answer with number(s).
+Please enter the item's name in English. （※ case sensitive and space）
 
 
+▷ Abysser--![](image/CaTJC.png)
 
-![](image/DM_preview.png)
+▷ Chevalier--![](image/InnoJC.png)
 
-### • Dominator's pass
+▷ Anular--![](image/Job_Change_-_Diangelion.png)
 
-Dominator's backstory references whos's backstory? Only the class name.（※ case sensitive and space）
-
-
-
-![](image/MP_preview.png)
-
-
-![](image/MP_TF_preview.png)
-
-### • MadParadox's pass
-
-Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
-
-
+#### key words:Job change item
 
 ## ▏ 2019.8.12 Ain Model Pack DL ▏
 
@@ -139,151 +207,63 @@ Please enter the item's name in English. （※ case sensitive and space）
 
 ![](image/phx2.png)
 
-## ▏2019.10.12 Ain weapon Pack DL ▏
 
-![](image/way.png)
+## ▏2019.7.3 & 7.4 ADD MODEL PACK DL ▏
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/208825)
+![](image/ADD.png)
 
-### • bowlroll pass:
-
-![](image/pass.png)
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/201755)
 
 
-## ▏2019.12.12 Ciel 3rd Job Pack DL  ▏
-![](image/xer1.png)
+###  If you have no idea with the hint,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/213606)
 
-### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
 ### • bowlroll pass:
 
 please use English to answer this question （※ case sensitive and space）
 
+
+
 01110100 01101000 01101001 01110011 00100000 01100011 01101000 01100001 01110010 01100001 01100011 01110100 01100101 01110010 00100111 01110011 00100000 01100110 01110101 01101100 01101100 00100000 01101110 01100001 01101101 01100101 
 
-### • ZIP pass:
+### • Zip Pass:
 
-01110111 01101000 01100001 01110100 00100000 01101001 01110011 00100000 01000011 01101001 01100101 01101100 00100111 01110011 00100000 01100100 01100101 01100011 01100001 01110011 01100101 01100100 00100000 01110011 01101001 01110011 01110100 01100101 01110010 00100111 01110011 00100000 01101110 01100001 01101101 01100101 00111111 
-
-### • Character pass:
-
-Please enter the item's name in English. （※ case sensitive and space）
+please use English to answer this question （※ case sensitive and space）
 
 
-▷ Abysser--![](image/CaTJC.png)
 
-▷ Chevalier--![](image/InnoJC.png)
+01001001 01101110 00100000 01110100 01101000 01100101 00100000 01001010 01100001 01110000 01100001 01101110 01100101 01110011 01100101 00100000 01110011 01100101 01110010 01110110 01100101 01110010 00101100 00100000 01000001 01100100 01100100 00100111 01110011 00100000 01000100 01111001 01101110 01100001 01101101 01101111 01110011 00100000 01100001 01110010 01100101 00100000 01110010 01100101 01101110 01100001 01101101 01100101 01100100 00100000 01110100 01101111 00100000 00111111 
 
-▷ Anular--![](image/Job_Change_-_Diangelion.png)
+![](image/DB_preview.png)
 
-#### key words:Job change item
+### • DoomBringer's pass
 
-
-## ▏2019.12.27 trinityACE Pack DL  ▏
-
-![](image/ACE配布图3.png)
-
-### ▶ [BowRoll DL page](https://bowlroll.net/file/214499)
-
-![](image/passACE.png)
+How many tail-like belts does this character have? Please answer with number(s).
 
 
-## 2020.03.24 Otome Kaibou Accessory DL
 
-![](image/otome.png)
+![](image/DM_preview.png)
 
-### ▶ [BowRoll DL page](https://bowlroll.net/file/221225)
+### • Dominator's pass
 
-![](image/16.png)
-
-### ● ZIP pass: 
-
-The name of the character which shown on the 3rd min of PV (All Capital letters)
+Dominator's backstory references whos's backstory? Only the class name.（※ case sensitive and space）
 
 
-## ▏2020.04.27 Lofty: Wanderer Wedding 2020 ▏
-
-![](image/karma2.png)
-
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/224285)
-
-#### bowlroll pass:
-
-![](image/karma.png)
+![](image/MP_preview.png)
 
 
-## ▏2020.05.10 Grace & Edward ▏
+![](image/MP_TF_preview.png)
 
-![](image/名场面2.png)
+### • MadParadox's pass
 
-### ▶ [BowlRoll DL page](https://bowlroll.net/file/225888)
+Mad Paradox now become an --?-- in time and space with a fluctuating appearance,explaining his child-like default appearance.Please answer the word ‘？’
 
-### ● bowlroll pass:
-
-![](image/grace.png)
-
-### ● Zip pass:
-
-In order to protect Edward, how many years did Grace send him in the future? (please answer with number/numbers)
-
-#### pass hint 
-
-You could find password at Official character comic 'Quantum Leap', Master Dungeon story and  [Grace's legacy](https://elwiki.net/w/Grace)
-
-## ▏2020.09.12 Ain Bluhen 1.02 Beta Version ▏
-
-![](image/beta.png)
-
-### ▶ [BowlRoll DL](https://bowlroll.net/file/236010)
-
-### ● bowlroll pass:
-
-![](image/0912.png)
-
-## ▏2020.11.16 Herrscher&Henir Pack ▏
-
-![](image/Snapping.png)
-
-### ▶ [BowlRoll DL](https://bowlroll.net/file/240825)
-
-### ● bowlroll pass:
-
-![](image/XIEXIE.png)
-
-## ▏2020.11.16 Chungha-Snapping Stage ▏
-
-![](image/Snapping1.png)
-
-### ▶ [BowlRoll DL](https://bowlroll.net/file/240824)
-
-## ▏2020.12.27 2020 Elsword Birthday Special ▏
-
-![](image/bbb.png)
-
-### ▶ [BowlRoll DL](https://bowlroll.net/file/243746)
-
-### ● bowlroll pass:
-
-Which game studio makes ELSOWRD?（All capitalization in English）
-
-### ● Zip pass:
-Which skill does KE's eyes turn completely blue when he uses it?（All English lowercase without spaces,17 characters in total）
-
-#### pass hint
-
-Check KE's page on Elwiki or Ask Elsword players please ;3
-
-## ▏2021.1.13 Noah-Liberator & Moon Master Pack▏
-
-![](image/fengmian1.png)
-
-### ▶ [BowlRoll DL](https://bowlroll.net/file/245292)
-
-### ● bowlroll pass:
-
-What is the last name of the moon master?
+## ▏2019.5.31 RG & DL Model （DL DOWN） ▏
+![](image/1.jpg)
+ 
+## ▏2019.5.21 MAZE Group Model Pack （DL DOWN） ▏
+![](image/MAZE_Poster.png) 
 
 
 # ▉ About us  ▉
@@ -292,8 +272,6 @@ Hi there !This is EUthana P & EVE ^^
 This is a blog about my MMD models & Original MMD PV, mostly it contains DL link and model & PV  preview image.
 
 If you have any question about these models, please contact us.
-
-
 
 ▷ Tiwtter : EUthana_Lau    
 
