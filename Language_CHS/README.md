@@ -3,6 +3,16 @@
 
 # ▉ 模型下载 ▉  
 
+## ▏2021.2.9 诺亚Celestia及克拉摩尔模组整合▏
+
+![](image/magnet.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/247287)
+
+### ● bowlroll 密码:
+
+达成Celestia转职时Noah是多少岁？（请用纯数字回答）
+
 ## ▏2021.1.22 Apostasia 四月女仆.ver 1100粉丝谢礼 ▏
 
 ![](image/Whatyou.png)
