@@ -4,6 +4,16 @@
 
 # ▉ Model Distribution ▉  
 
+## ▏2021.2.27 Forever Secret▏
+
+![](image/preview.png)
+
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/248798)
+
+### ● bowlroll pass:
+
+![](image/la.png)
+
 ## ▏2021.2.9 Celestia & Clamor Pack▏
 
 ![](image/magnet.png)
