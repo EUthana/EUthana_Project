@@ -5,9 +5,13 @@
 
 ## ▏2021.3.26 诺亚-TrinityACE！▏
 
-![](image/NP.png)
+![](image/ACE4.png)
 
-### ▶ [BowlRoll 下载](https://bowlroll.net/file/249619)
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/250760)
+
+### ● bowlroll 密码:
+
+![](image/en.png)
 
 ## ▏2021.3.10 诺亚-夜殉者模组整合▏
 
