@@ -3,6 +3,12 @@
 
 # ▉ 模型下载 ▉  
 
+## ▏2021.3.26 诺亚-TrinityACE！▏
+
+![](image/NP.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/249619)
+
 ## ▏2021.3.10 诺亚-夜殉者模组整合▏
 
 ![](image/NP.png)
