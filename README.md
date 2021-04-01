@@ -13,5 +13,5 @@
 
 # ▉ Commision Info ▉  
 ## ▷ [English]()
-## ▷ [简体中文](https://euthana.github.io/EUthana_Project/Language_CHS/)
+## ▷ [简体中文](https://docs.qq.com/doc/DYnRYUFlBb1ZKWndB?pub=1&dver=2.1.26950460)
 ## ▷ [한국어]()
