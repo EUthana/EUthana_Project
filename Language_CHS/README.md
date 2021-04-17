@@ -3,6 +3,16 @@
 
 # ▉ 模型下载 ▉  
 
+## ▏2021.4.17 诺亚-初始+赏月HA场景整合▏
+
+![](image/patch.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/252154)
+
+### ● bowlroll 密码:
+
+诺亚的武器叫什么名字？
+
 ## ▏2021.3.26 诺亚-TrinityACE！▏
 
 ![](image/ACE4.png)
