@@ -4,6 +4,16 @@
 
 # ▉ Model Distribution ▉  
 
+## ▏2021.4.17 Noah-Basic Job+Moon Welcoming Model DL▏
+
+![](image/patch.png)
+
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/252154)
+
+### ● bowlroll pass:
+
+What is the name of Noah's weapon？
+
 ## ▏2021.3.26 Noah-TrinityACE！▏
 
 ![](image/ACE4.png)
