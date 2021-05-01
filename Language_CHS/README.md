@@ -15,7 +15,7 @@
 
 ## ▏2021.4.30 Dream of You 场景整合▏
 
-![](image/DOY-1.png)
+![](image/doy-1.png)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/253028)
 
