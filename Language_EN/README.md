@@ -4,7 +4,7 @@
 
 # ▉ Model Distribution ▉  
 
-## ▏2021.4.30 Noah-Elite Model Pack DL▏
+## ▏2021.4.30 Noah-Elite Model Pack DL  Thanks for 1300 Followers!▏
 
 ![](image/cover.png)
 
