@@ -12,7 +12,7 @@
 
 ### ● bowlroll pass:
 
-The job's name is abbreviated by ...(All traditional Chinese characters, no punctuation/space)
+The job's name is abbreviated by ...(8 traditional Chinese characters, no punctuation/space)
 
 ### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
