@@ -11,6 +11,19 @@
 
 # ▉ 모델 팩 다운로드 ▉  
 
+## ▏2021.5.14 아라-대라 모델 팩▏
+
+![](image/SH_preview.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
+
+### ● bowlroll 비밀번호:
+
+The job's name is abbreviated by ...(8 traditional Chinese characters, no punctuation/space)
+
+###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
+ [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
+
 ## ▏2021.4.30 노아 - 엘리트 정장 무대  1300 팔로워의 사례!▏
 
 ![](image/cover.png)
