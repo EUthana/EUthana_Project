@@ -24,6 +24,7 @@ Morse code （摩斯电码）:  ....  .  .-..  .-..  ---  .--  ---  .-.  .-..  -
 所有的密码都可以在[Elwiki ](https://elwiki.net/w/Main_Page) 的角色/职业背景设定，剧情设定或者花絮中找到。
 
 All the pass information could be fond on [Elwiki ](https://elwiki.net/w/Main_Page) character back story/trivia/setting
+
 패스워드의 모든 단서는 [Elwiki ](https://elwiki.net/w/Main_Page)의 캐릭터 설정(Background) 및 트리비아(Trivia)에서 찾을 수 있습니다
 
 
