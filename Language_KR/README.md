@@ -19,7 +19,7 @@
 
 ### ● bowlroll 비밀번호:
 
-The job's name is abbreviated by ...(8 traditional Chinese characters, no punctuation/space)
+이 캐릭터의 전직 이름은 (________)의 약칭입니다（번체자 8자. 구두점/빈칸 없음）
 
 ###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
  [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
