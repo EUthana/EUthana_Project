@@ -4,6 +4,18 @@
 
 # ▉ Model Distribution ▉  
 
+## ▏2021.5.14 Ara-Shakti Model DL▏
+
+![](image/SH_preview.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/254127)
+
+### ● bowlroll pass:
+
+The job's name is abbreviated by ...(All traditional Chinese characters, no punctuation/space)
+
+### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+
 ## ▏2021.4.30 Noah-Elite Model Pack DL  Thanks for 1300 Followers!▏
 
 ![](image/cover.png)
