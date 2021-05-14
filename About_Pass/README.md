@@ -18,7 +18,10 @@ Morse code （摩斯电码）:  ....  .  .-..  .-..  ---  .--  ---  .-.  .-..  -
 
 [morse code to text ](https://morsecode.scphillips.com/translator.html)
 
+
 # Pass Range | 密码范围
+
+所有的密码都可以在[Elwiki ](https://elwiki.net/w/Main_Page) 的角色/职业背景设定，剧情设定或者花絮中找到。
 
 All the pass information could be fond on [Elwiki ](https://elwiki.net/w/Main_Page) character back story/trivia/setting
 
