@@ -5,7 +5,7 @@
 
 ## ▏2021.6.13 Angelphobia 系列模组整合▏
 
-![](image/fengmian2.png)
+![](image/fengmian1.png)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
 
@@ -15,7 +15,7 @@
 
 ## ▏2021.6.13 李泰民 Criminal 动作配布▏
 
-![](image/fengmian1.png)
+![](image/fengmian2.png)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
 
