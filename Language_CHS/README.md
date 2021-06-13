@@ -19,6 +19,10 @@
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
 
+### ● bowlroll 密码:
+
+![](image/fengmian2.png)
+
 
 ## ▏2021.5.14 艾拉-大罗 模组整合▏
 
