@@ -11,6 +11,26 @@
 
 # ▉ 모델 팩 다운로드 ▉  
 
+## ▏2021.6.13 Angelphobia 모델 팩▏
+
+![](image/fengmian1.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
+
+### ● bowlroll 비밀번호:
+
+![](image/PASS2.png)
+
+## ▏2021.6.13 TAEMIN - Criminal 모션 팩▏
+
+![](image/fengmian2.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
+
+### ● bowlroll 비밀번호:
+
+비디오의 1:29에 표시된 8개의 숫자입니다. 다른 기호 없음
+
 ## ▏2021.5.14 아라-대라 모델 팩▏
 
 ![](image/SH_preview.png)
