@@ -3,6 +3,23 @@
 
 # ▉ 模型下载 ▉  
 
+## ▏2021.6.13 Angelphobia 系列模组整合▏
+
+![](image/fengmian2.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
+
+### ● bowlroll 密码:
+
+配布视频中1:29秒处的数字（纯8位数字）
+
+## ▏2021.6.13 李泰民 Criminal 动作配布▏
+
+![](image/fengmian1.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
+
+
 ## ▏2021.5.14 艾拉-大罗 模组整合▏
 
 ![](image/SH_preview.png)
