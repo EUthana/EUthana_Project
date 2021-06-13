@@ -2,7 +2,27 @@
 
 
 
-# ▉ Model Distribution ▉  
+# ▉ Model/Motion Distribution ▉  
+
+## ▏2021.6.13 Angelphobia Model Pack DL▏
+
+![](image/fengmian1.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/254127)
+
+### ● bowlroll Pass:
+
+![](image/PASS2.png)
+
+## ▏2021.6.13 TAEMIN - Criminal Motion DL▏
+
+![](image/fengmian2.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/254127)
+
+### ● bowlroll pass:
+
+The 8 numbers shown at 1:29 of the video.（No other symbols）
 
 ## ▏2021.5.14 Ara-Shakti Model DL▏
 
