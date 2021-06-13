@@ -15,7 +15,7 @@
 
 ![](image/fengmian1.png)
 
-### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/256125)
 
 ### ● bowlroll 비밀번호:
 
@@ -25,7 +25,7 @@
 
 ![](image/fengmian2.png)
 
-### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/256124)
 
 ### ● bowlroll 비밀번호:
 
