@@ -12,7 +12,7 @@
 
 ### ● bowlroll Pass:
 
-Who drew the old portrait of this character?
+Who drew the old portrait of this character（basic class）? ※ case sensitive
 
 ## ▏2021.7.15 EmpireSword Model Pack DL▏
 
@@ -22,7 +22,7 @@ Who drew the old portrait of this character?
 
 ### ● bowlroll pass:
 
-Who drew the old portrait of this character?
+Who drew the old portrait of this character（basic class）?  ※ case sensitive
 
 ## ▏2021.6.13 Angelphobia Model Pack DL▏
 
