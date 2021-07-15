@@ -1,4 +1,4 @@
-![](image/EU2.png) 
+![](image/pro.png) 
 
 
 # ▉ 模型下载 ▉  
