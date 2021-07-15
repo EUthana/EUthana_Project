@@ -11,6 +11,26 @@
 
 # ▉ 모델 팩 다운로드 ▉  
 
+## ▏2021.7.15 코드: 사리엘 모델 팩▏
+
+![](image/CS.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/257916)
+
+### ● bowlroll 비밀번호:
+
+이 인물의 옛 초상화는 누가 그렸습니까?
+
+## ▏2021.7.15 	엠파이어 소드 모델 팩▏
+
+![](image/ES.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/257915)
+
+### ● bowlroll비밀번호:
+
+이 인물의 옛 초상화는 누가 그렸습니까?
+
 ## ▏2021.6.13 Angelphobia 모델 팩▏
 
 ![](image/fengmian1.png)
