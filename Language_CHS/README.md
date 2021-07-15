@@ -3,6 +3,26 @@
 
 # ▉ 模型下载 ▉  
 
+## ▏2021.7.15 混沌女王 模组整合▏
+
+![](image/CS.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/257916)
+
+### ● bowlroll 密码:
+
+该角色（非职业）的旧版立绘是由谁绘制？
+
+## ▏2021.7.15 帝国之剑 模组整合▏
+
+![](image/ES.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/257915)
+
+### ● bowlroll 密码:
+
+该角色（非职业）的旧版立绘是由谁绘制？
+
 ## ▏2021.6.13 Angelphobia 系列模组整合▏
 
 ![](image/fengmian1.png)
