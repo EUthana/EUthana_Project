@@ -4,6 +4,26 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2021.7.15 Code：Sariel Model Pack DL▏
+
+![](image/CS.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/257916)
+
+### ● bowlroll Pass:
+
+Who drew the old portrait of this character?
+
+## ▏2021.7.15 EmpireSword Model Pack DL▏
+
+![](image/ES.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/257915)
+
+### ● bowlroll pass:
+
+Who drew the old portrait of this  ### character?
+
 ## ▏2021.6.13 Angelphobia Model Pack DL▏
 
 ![](image/fengmian1.png)
