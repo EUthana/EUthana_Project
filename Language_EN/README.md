@@ -22,7 +22,7 @@ Who drew the old portrait of this character?
 
 ### ● bowlroll pass:
 
-Who drew the old portrait of this  ### character?
+Who drew the old portrait of this character?
 
 ## ▏2021.6.13 Angelphobia Model Pack DL▏
 
