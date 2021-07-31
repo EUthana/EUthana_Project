@@ -9,7 +9,18 @@
 
 
 
-# ▉ 모델 팩 다운로드 ▉  
+# ▉ 모델 팩 다운로드 ▉ 
+
+## ▏2021.7.31 제천 모델 팩▏
+
+![](image/zuizhong2.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/258864)
+
+### ● bowlroll 비밀번호:
+
+![](image/San.png)
+
 
 ## ▏2021.7.15 코드: 사리엘 모델 팩▏
 
