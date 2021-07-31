@@ -5,13 +5,13 @@
 
 ## ▏2021.7.31 帝天 模组整合▏
 
-![](image/CS.png)
+![](image/zuizhong2.png)
 
-### ▶ [BowlRoll 下载](https://bowlroll.net/file/257916)
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/258864)
 
 ### ● bowlroll 密码:
 
-该角色（非职业）的旧版立绘是由谁绘制？（请用英文回答，注意大小写）
+![](image/San.png)
 
 ## ▏2021.7.15 混沌女王 模组整合▏
 
