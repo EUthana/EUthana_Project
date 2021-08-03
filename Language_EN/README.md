@@ -4,7 +4,7 @@
 
 # ▉ Model/Motion Distribution ▉  
 
-## ▏2021.7.31 Genesis Model Pack DL▏
+## ▏2021.8.4 Genesis Model Pack DL▏
 
 ![](image/fe.png)
 
