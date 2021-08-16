@@ -12,5 +12,5 @@
 ## ▷ [한국어](https://euthana.github.io/EUthana_Project/Language_KR/)
 
 # ▉ Commission Info ▉  
-## ▷ Page close Temporarily, please contact me on twitter DM for commission~ ;3
+## ▷ Page close Temporarily, please contact me on twitter DM for the commission~ ;3
 
