@@ -4,6 +4,16 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2021.9.23 Metamorphy Model Pack DL▏
+
+![](image/fans.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/262798)
+
+### ● bowlroll pass:
+
+![](image/meta.png)
+
 ## ▏2021.8.4 Genesis Model Pack DL▏
 
 ![](image/fe.png)
