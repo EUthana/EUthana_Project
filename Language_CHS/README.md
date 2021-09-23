@@ -3,6 +3,17 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2021.9.23 幻化魔仙 模组整合▏
+
+![](image/fans.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/262798)
+
+### ● bowlroll 密码:
+
+![](image/meta.png)
+
+
 ## ▏2021.8.4 起源之光 模组整合▏
 
 ![](image/fe.png)
