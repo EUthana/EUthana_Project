@@ -16,7 +16,9 @@
 
 全英文，注意首字母大写
 
-#### [●配布 PV 链接](https://www.youtube.com/watch?v=yM2VDtHg5dc)
+#### [● 配布 PV 链接 （Youtube）](https://www.youtube.com/watch?v=yM2VDtHg5dc)
+
+#### [● 配布 PV 链接 （Bilibili）](https://www.bilibili.com/video/bv1NQ4y167rq)
 
 ## ▏2021.9.23 幻化魔仙 模组整合▏
 
