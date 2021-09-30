@@ -21,6 +21,8 @@
 
 03:55~04:00에 나타나는 문자에 맞는 스킬의 이름입니다.（* 대소문자 구분）
 
+#### [● 유튜브에서 MMD PV 보기 ](https://www.youtube.com/watch?v=yM2VDtHg5dc)
+
 ## ▏2021.9.23 메타모르피 모델 팩▏
 
 ![](image/fans.png)
