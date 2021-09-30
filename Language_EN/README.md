@@ -14,7 +14,7 @@
 
 The name of the skill corresponding to the text appears in the PV video at 03:55~04:00 （※ All in English, case sensitive）
 
-#### [●  PV Link （Youtube）](https://www.youtube.com/watch?v=yM2VDtHg5dc)
+#### [● Watching MMD PV on Youtube ](https://www.youtube.com/watch?v=yM2VDtHg5dc)
 
 
 ## ▏2021.9.23 Metamorphy Model Pack DL▏
