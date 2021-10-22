@@ -5,7 +5,7 @@
 
 ## ▏2021.10.22 不朽之王-2021 婚纱 模组整合▏
 
-![](image/pr6.png)
+![](image/pre6.png)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/263303)
 
