@@ -15,7 +15,7 @@
 
 ![](image/pre6.png)
 
-### ▶ [BowlRoll 페이지](https://bowlroll.net/file/263303)
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/264812)
 
 ### ● bowlroll 비밀번호:
 
