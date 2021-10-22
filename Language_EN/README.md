@@ -4,6 +4,16 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2021.10.22 Immortal-2021 Wedding Model Pack DL▏
+
+![](image/pre6.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/263303)
+
+### ● bowlroll pass:
+
+![](image/wedding.png)
+
 ## ▏2021.9.30 Code: Antithese Model Pack DL▏
 
 ![](image/gehe.png)
