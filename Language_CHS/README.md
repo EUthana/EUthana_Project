@@ -3,12 +3,21 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2021.10.22 不朽之王-2021 婚纱 模组整合▏
+
+![](image/pr6.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/263303)
+
+### ● bowlroll 密码:
+
+![](image/wedding.png)
 
 ## ▏2021.9.30 至臻女帝 模组整合▏
 
 ![](image/gehe.png)
 
-### ▶ [BowlRoll 下载](https://bowlroll.net/file/263303)
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/264812)
 
 ### ● bowlroll 密码提示:
 
