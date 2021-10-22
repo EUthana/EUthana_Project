@@ -11,6 +11,17 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2021.10.22 임모탈-2021 Wedding 모델 팩▏
+
+![](image/pre6.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/263303)
+
+### ● bowlroll 비밀번호:
+
+![](image/wedding.png)
+
+
 ## ▏2021.9.30 코드: 안티테제 모델 팩▏
 
 ![](image/gehe.png)
