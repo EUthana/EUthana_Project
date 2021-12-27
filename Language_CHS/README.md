@@ -3,6 +3,16 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2021.12.27 艾索德-2021 生日贺礼！ 模组整合▏
+
+![](image/eva2.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/268866)
+
+### ● bowlroll 密码:
+
+![](image/dec.png)
+
 ## ▏2021.10.22 不朽之王-2021 婚纱 模组整合▏
 
 ![](image/pre6.png)
