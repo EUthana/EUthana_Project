@@ -4,6 +4,17 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2021.12.27 Elsword -2021 Happy Birthday! Model Pack DL▏
+
+![](image/eva2.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/268866)
+
+### ● bowlroll pass:
+
+![](image/dec.png)
+
+
 ## ▏2021.10.22 Immortal-2021 Wedding Model Pack DL▏
 
 ![](image/pre6.png)
