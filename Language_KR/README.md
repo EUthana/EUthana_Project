@@ -11,6 +11,19 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.1.14 아라-대라 모델 팩▏update Celestial Fox version
+
+![](image/SH_preview.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
+
+### ● bowlroll 비밀번호:
+
+이 캐릭터의 전직 이름은 (________)의 약칭입니다（번체자 8자. 구두점/빈칸 없음）
+
+###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
+ [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
+
 ## ▏2021.10.22 엘소드-2021 Happy Birthday! 모델 팩▏
 
 ![](image/eva2.png)
@@ -110,18 +123,7 @@
 
 비디오의 1:29에 표시된 8개의 숫자입니다. 다른 기호 없음
 
-## ▏2021.5.14 아라-대라 모델 팩▏
 
-![](image/SH_preview.png)
-
-### ▶ [BowlRoll 페이지](https://bowlroll.net/file/254127)
-
-### ● bowlroll 비밀번호:
-
-이 캐릭터의 전직 이름은 (________)의 약칭입니다（번체자 8자. 구두점/빈칸 없음）
-
-###  만약 당신이 비밀번호를 해제하는 것에 어려움을 느낀다면, 이 페이지를 먼저 읽어봐주세요.
- [▶](https://euthana.github.io/EUthana_Project/About_Pass/) 
 
 ## ▏2021.4.30 노아 - 엘리트 정장 무대  1300 팔로워의 사례!▏
 
