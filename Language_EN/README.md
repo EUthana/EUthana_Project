@@ -4,6 +4,18 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.1.14 Ara-Shakti Model DL▏update Celestial Fox version
+
+![](image/SH_preview.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/254127)
+
+### ● bowlroll pass:
+
+The job's name is abbreviated by ...(8 traditional Chinese characters, no punctuation/space)
+
+### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
+
 ## ▏2021.12.27 Elsword -2021 Happy Birthday! Model Pack DL▏
 
 ![](image/eva2.png)
@@ -99,17 +111,7 @@ Who drew the old portrait of this character（basic class）?  ※ case sensitiv
 
 The 8 numbers shown at 1:29 of the video.（No other symbols）
 
-## ▏2021.5.14 Ara-Shakti Model DL▏
 
-![](image/SH_preview.png)
-
-### ▶ [BowlRoll DL Page](https://bowlroll.net/file/254127)
-
-### ● bowlroll pass:
-
-The job's name is abbreviated by ...(8 traditional Chinese characters, no punctuation/space)
-
-### If you have no idea with the tips,read [this](https://euthana.github.io/EUthana_Project/About_Pass/) first please.
 
 ## ▏2021.4.30 Noah-Elite Model Pack DL  Thanks for 1300 Followers!▏
 
