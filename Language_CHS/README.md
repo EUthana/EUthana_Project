@@ -3,6 +3,19 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2022.1.14 艾拉-大罗 模组整合▏
+
+![](image/SH_preview.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
+
+### ● bowlroll 密码:
+
+该职业名称是由什么缩写而来的？（全繁体中文字符，无任何标点符号）
+
+### 如果你对密码提示感觉困难，请先阅读 [这个](https://euthana.github.io/EUthana_Project/About_Pass/) 页面
+
+
 ## ▏2021.12.27 艾索德-2021 生日贺礼！ 模组整合▏
 
 ![](image/eva2.png)
@@ -101,18 +114,6 @@
 
 配布视频中1:29秒处的数字（纯8位数字）
 
-
-## ▏2021.5.14 艾拉-大罗 模组整合▏
-
-![](image/SH_preview.png)
-
-### ▶ [BowlRoll 下载](https://bowlroll.net/file/254127)
-
-### ● bowlroll 密码:
-
-该职业名称是由什么缩写而来的？（全繁体中文字符，无任何标点符号）
-
-### 如果你对密码提示感觉困难，请先阅读 [这个](https://euthana.github.io/EUthana_Project/About_Pass/) 页面
 
 
 ## ▏2021.4.30 诺亚-精英裁缝（私服）模组整合 1300 fo 感谢！▏
