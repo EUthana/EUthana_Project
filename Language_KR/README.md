@@ -11,6 +11,19 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.1.30 ENE 그라하 티아 모델 팩▏
+![](image/Raha.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/270972)
+
+### ● bowlroll 비밀번호:
+
+이 이미지가 처음 나타나는 영어 태스크 이름. *공백 및 사례 문자 포함*
+
+### ● ZIP 비밀번호:
+
+캐릭터의 개인 이름의 영어 이름은 무엇입니까? (클랜 이름 및 신원은 포함되지 않음)
+
 ## ▏2022.1.14 아라-대라 모델 팩▏update Celestial Fox version
 
 ![](image/SH_preview.png)
