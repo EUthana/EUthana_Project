@@ -4,6 +4,19 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.1.30 ENE G'Raha Tia Model DL▏
+![](image/Raha.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/270972)
+
+### ● bowlroll Pass:
+
+The English task name where this image first appears. *Includes spaces as well as case letters*
+
+### ● ZIP pass:
+
+What is the English name of the character's personal name? (does not include clan name and identity)
+
 ## ▏2022.1.14 Ara-Shakti Model DL▏update Celestial Fox version
 
 ![](image/SH_preview.png)
