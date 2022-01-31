@@ -11,7 +11,7 @@
 ### ▶ [BowlRoll DL Page](https://bowlroll.net/file/271042)
 
 ### ● bowlroll pass:
-Except the Apsara, wich is another English name of 毘天？ 
+Beside the Apsara, what is the another English name of 毘天？ 
 
 ## ▏2022.1.30 ENE G'Raha Tia Model DL▏
 ![](image/Raha.png)
