@@ -3,6 +3,16 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2022.1.31 艾拉- 毘天 模组整合▏
+
+![](image/VI.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/271042)
+
+### ● bowlroll 密码:
+
+毘天除了Apsara的英文写法之外，另一个英文的名称是？*注意大小写*
+
 ## ▏2022.1.30 ENE式古.拉哈.提亚▏（公开配布版）
 
 ![](image/Raha.png)
