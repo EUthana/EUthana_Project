@@ -11,6 +11,15 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.1.31 아라-비천 모델 팩▏
+
+![](image/VI.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/271042)
+
+### ● bowlroll 비밀번호:
+비뉴천 의 영어 표기법
+
 ## ▏2022.1.30 ENE 그라하 티아 모델 팩▏
 ![](image/Raha.png)
 
