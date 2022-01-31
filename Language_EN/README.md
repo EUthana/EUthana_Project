@@ -4,6 +4,15 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.1.31 Ara- Apsara Model DL▏
+
+![](image/VI.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/271042)
+
+### ● bowlroll pass:
+Except the Apsara, wich is another English name of 毘天？ 
+
 ## ▏2022.1.30 ENE G'Raha Tia Model DL▏
 ![](image/Raha.png)
 
