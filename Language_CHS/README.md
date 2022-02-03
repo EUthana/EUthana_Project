@@ -3,6 +3,16 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2022.1.31 艾索德- 邦尼女仆 模组整合 限定下载▏
+
+![](image/990.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/271240)
+
+### ● bowlroll 密码:
+
+![](image/990pass.png)
+
 ## ▏2022.1.31 艾拉- 毘天 模组整合▏
 
 ![](image/VI.png)
