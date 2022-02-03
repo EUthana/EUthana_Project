@@ -14,6 +14,15 @@
 
 ![](image/990pass.png)
 
+### R16 Version（Only for Female Oriented Work）
+![](image/r18.jpg)
+
+### ▶ [BowlRoll DL page](https://bowlroll.net/file/271241)
+
+### ● bowlroll Pass:
+
+Please contact me on @EUthana_Lau
+
 ## ▏2022.1.31 Ara- Apsara Model DL▏
 
 ![](image/VI.png)
