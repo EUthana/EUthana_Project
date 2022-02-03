@@ -21,6 +21,15 @@
 
 ![](image/990pass.png)
 
+### R16 Version（여성 지향적 업무에만 해당）
+![](image/r18.jpg)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/271241)
+
+### ● bowlroll 비밀번호:
+
+Please contact me on @EUthana_Lau
+
 ## ▏2022.1.31 아라-비천 모델 팩▏
 
 ![](image/VI.png)
