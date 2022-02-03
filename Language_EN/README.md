@@ -4,6 +4,16 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.1.31 Elsword- BunnyMaid Model DL *limited time DL* ▏
+
+![](image/990.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/271240)
+
+### ● bowlroll Pass:
+
+![](image/990pass.png)
+
 ## ▏2022.1.31 Ara- Apsara Model DL▏
 
 ![](image/VI.png)
