@@ -14,7 +14,7 @@
 ![](image/990pass.png)
 
 ### 成人向版本 （仅用于女性向作品使用）
-![](image/r18.png)
+![](image/r18.jpg)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/271241)
 
