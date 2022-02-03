@@ -11,6 +11,16 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.1.31 엘소드- BunnyMaid 모델 팩 *limited time DL* ▏
+
+![](image/990.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/271240)
+
+### ● bowlroll 비밀번호:
+
+![](image/990pass.png)
+
 ## ▏2022.1.31 아라-비천 모델 팩▏
 
 ![](image/VI.png)
