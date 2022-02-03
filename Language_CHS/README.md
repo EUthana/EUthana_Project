@@ -13,6 +13,15 @@
 
 ![](image/990pass.png)
 
+### 成人向版本 （仅用于女性向作品使用）
+![](image/r18.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/271241)
+
+### ● bowlroll 密码:
+
+请在twitter DM联系我 @EUthana_Lau
+
 ## ▏2022.1.31 艾拉- 毘天 模组整合▏
 
 ![](image/VI.png)
