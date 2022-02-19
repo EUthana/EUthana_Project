@@ -11,6 +11,31 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.2.19 아인- Bunny Delaer 모델 팩 *limited time DL*▏
+
+![](image/wiggle.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/272248)
+
+### ● bowlroll 비밀번호:
+
+![](image/bun.png)
+
+### R16 Version（여성 지향적 업무에만 해당）
+![](image/DDD.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/272251)
+
+### ● bowlroll 비밀번호:
+
+Please contact me on Twitter@EUthana_Lau
+
+To get this model pack, please read the rules first and contact me via DM with these follow contents:
+
+-Elsword Player(게임 스크린샷 또는 ELS 팬 콘텐츠)임을 증명합니다.
+-최소한 기본 MMD 기술(스틸 이미지,GIF,비디오 링크)
+
+
 ## ▏2022.1.31 엘소드- BunnyMaid 모델 팩 *limited time DL* ▏
 
 ![](image/990.png)
@@ -28,7 +53,7 @@
 
 ### ● bowlroll 비밀번호:
 
-Please contact me on @EUthana_Lau
+Please contact me on Twitter@EUthana_Lau
 
 ## ▏2022.1.31 아라-비천 모델 팩▏
 
