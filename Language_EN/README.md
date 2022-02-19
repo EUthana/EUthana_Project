@@ -6,7 +6,7 @@
 
 ## ▏2022.1.31 Ain- Bunny Delaer Model DL *limited time DL*▏
 
-![](image/wiggle.jpg)
+![](image/wiggle.png)
 
 ### ▶ [BowlRoll DL Page](https://bowlroll.net/file/272248)
 
