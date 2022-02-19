@@ -56,6 +56,12 @@ To get this model pack, please read the rules first and contact me via DM with t
 
 Please contact me on Twitter@EUthana_Lau
 
+To get this model pack, please read the rules first and contact me via DM with these follow contents:
+
+-Elsword Player(게임 스크린샷 또는 ELS 팬 콘텐츠)임을 증명합니다.
+
+-최소한 기본 MMD 기술(스틸 이미지,GIF,비디오 링크)
+
 ## ▏2022.1.31 아라-비천 모델 팩▏
 
 ![](image/VI.png)
