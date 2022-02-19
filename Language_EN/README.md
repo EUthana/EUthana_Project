@@ -4,6 +4,30 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.1.31 Ain- Bunny Delaer Model DL *limited time DL*▏
+
+![](image/wiggle.jpg)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/272248)
+
+### ● bowlroll Pass:
+
+![](image/bun.png)
+
+### R16 Version（Only for Female Oriented Work）
+![](image/DDD.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/272251)
+
+### ● bowlroll Pass:
+
+Please contact me on Twitter @EUthana_Lau
+
+To get this model pack, please read the rules first and contact me via DM with these follow contents:
+
+-prove you are Elsword Player (e.g game screenshot, or any ELS fan content)
+-at least basic MMD skill (still image,GIF,Video link)
+
 ## ▏2022.1.31 Elsword- BunnyMaid Model DL *limited time DL* ▏
 
 ![](image/990.png)
@@ -21,7 +45,12 @@
 
 ### ● bowlroll Pass:
 
-Please contact me on @EUthana_Lau
+Please contact me on Twitter @EUthana_Lau
+
+To get this model pack, please read the rules first and contact me via DM with these follow contents:
+
+-prove you are Elsword Player (e.g game screenshot, or any ELS fan content)
+-at least basic MMD skill (still image,GIF,Video link)
 
 ## ▏2022.1.31 Ara- Apsara Model DL▏
 
