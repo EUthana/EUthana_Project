@@ -4,7 +4,7 @@
 
 # ▉ Model/Motion Distribution ▉  
 
-## ▏2022.1.31 Ain- Bunny Delaer Model DL *limited time DL*▏
+## ▏2022.2.19 Ain- Bunny Delaer Model DL *limited time DL*▏
 
 ![](image/wiggle.png)
 
