@@ -5,7 +5,7 @@
 
 ## ▏2022.1.31 艾因- 邦尼荷官 模组整合 限定下载▏
 
-![](image/wiggle.kpg)
+![](image/wiggle.jpg)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/272248)
 
