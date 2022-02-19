@@ -3,6 +3,25 @@
 
 # ▉ 模型配布 ▉  
 
+## ▏2022.1.31 艾因- 邦尼荷官 模组整合 限定下载▏
+
+![](image/wiggle.kpg)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/272248)
+
+### ● bowlroll 密码:
+
+![](image/bun.png)
+
+### 限制级版本 16+（仅用于女性向作品使用）
+![](image/DDD.png)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/272251)
+
+### ● bowlroll 密码:
+
+请在twitter DM联系我 @EUthana_Lau
+
 ## ▏2022.1.31 艾索德- 邦尼女仆 模组整合 限定下载▏
 
 ![](image/990.png)
@@ -13,7 +32,7 @@
 
 ![](image/990pass.png)
 
-### 成人向版本 （仅用于女性向作品使用）
+### 限制级版本 16+（仅用于女性向作品使用）
 ![](image/r18.jpg)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/271241)
