@@ -4,7 +4,7 @@
 
 # ▉ Model/Motion Distribution ▉  
 
-## ▏2022.2.19 Raven- Revenant Model DL▏
+## ▏2022.5.20 Raven- Revenant Model DL▏
 
 ![](image/crows.png)
 
