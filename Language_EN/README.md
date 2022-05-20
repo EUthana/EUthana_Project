@@ -4,6 +4,18 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.2.19 Raven- Revenant Model DL▏
+
+![](image/crows.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/277760)
+
+### ● bowlroll Pass Tips:
+
+Who gave him the reason to keep moving forward?
+
+**it is a lady's name**
+
 ## ▏2022.2.19 Ain- Bunny Delaer Model DL *limited time DL*▏
 
 ![](image/wiggle.png)
