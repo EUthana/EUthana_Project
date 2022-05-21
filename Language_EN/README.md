@@ -4,6 +4,16 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.5.21 Ain&Elsword- 2021 Wedding Afterlife Oath&Evergreen Promise Model DL▏
+
+![](image/f4.jpg)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/277875)
+
+### ● bowlroll Password:
+
+![](image/xinfu.png)
+
 ## ▏2022.5.20 Raven- Revenant Model DL▏
 
 ![](image/crows.png)
