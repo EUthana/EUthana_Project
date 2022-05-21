@@ -11,6 +11,16 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.5.21 헤르셔&임모탈- 2021 Wedding 忘川之約&滄海之誓 모델 팩▏
+
+![](image/f4.jpg)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/277875)
+
+### ● bowlroll 비밀번호:
+
+![](image/xinfu.png)
+
 ## ▏2022.5.20 레이븐- 레버넌트 모델 팩▏
 
 ![](image/crows.png)
