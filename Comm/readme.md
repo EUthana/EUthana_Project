@@ -87,6 +87,8 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ Commission Process ▉  
 
+I accept PayPal payments, and if you are a Canadian user, I also accept EMT payments.
+
 ● Negotiated price
 
 ● Deposit payment (50% of total)
