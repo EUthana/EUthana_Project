@@ -20,13 +20,13 @@ NOTE: This pricing is for a model optimised for MMD ONLY and will be recieved in
 
 Modeling-combo start at 800 USD
 
--face and body mesh
+● face and body mesh
 
--rig and dynamic
+● rig and dynamic
 
--40 blendshapes
+● 40 blendshapes
 
--full textures
+● full textures
 
 Add-on:
 
@@ -50,13 +50,13 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 Modeling-combo start at 350 USD
 
--face and body mesh
+● face and body mesh
 
--rig and dynamic
+● rig and dynamic
 
--30 blendshapes
+● 30 blendshapes
 
--full textures
+● full textures
 
 Add-on:
 
@@ -72,24 +72,64 @@ Add-on:
 
 All prices are for reference only, depending on the complexity of the design.Most models will be 800 USD+
 
+# ▉ Commission Process ▉  
+
+● Negotiated price
+
+● Deposit payment (50% of total)
+
+● weekly feedback
+
+● Final Check and deliver the model
+
+● Rest payment (50% of total)
+
 
 # ▉ speciality and limitations ▉  
 
 ### I specialize in:
 
--3D model with more than 95% similarity to the Live 2D art/reference sheet you provided.
+● 3D model with more than 95% similarity to the Live 2D art/reference sheet you provided.
 
--Diverse costumes can be made, including uncommon decorations such as extensive armor, scales, and exoskeletons.
+● Diverse costumes can be made, including uncommon decorations such as extensive armor, scales, and exoskeletons.
 
--I can make furry & robotic humanoid modding, but it is important to note that they have an extra price. Please DM me for a detailed discussion.
+● I can make furry & robotic humanoid modding, but it is important to note that they have an extra price. Please DM me for a detailed discussion.
 
--please refer to my twitter for more references :3
+● please refer to my twitter for more references :3
 
 ### I do not offer the following options:
 
--hyper-realistic models
+● hyper-realistic models
 
--explicit R18 content.
+● explicit R18 content.
+
+● I am unable to model unclear designs, multiple references, and verbal descriptions. Please be 100% sure of what you want from the start
+
+# ▉ FAQ ▉ 
+
+###  Can the commissioned model be used for NSFW?
+
+▶ Sure, I can't make R18 content but it is feasible for R18 and NSFW.
+
+###  can you make a head or base only?
+
+▶ Sorry, I'm not accepting at the moment.
+
+### For some reason I don't want to commission anymore, can I cancel it?
+
+▶ Yes, but I will not return the deposit that already paid. To avoid this, please double check before you pay the deposit.
+
+### When do I get feedback? is it possible for me to change anything?
+
+▶ I will update as soon as the commission begins, usually once a week and more frequently as we get closer to delivery.
+
+You can always tell me what needs to be replaced or changed before I start working on the part you want to change, otherwise I won't change it.
+
+Before the rig phase, I can accept substantial modifications (I will inform you) After the rig, all major modifications will be additionally priced.
+
+### I am a returning customer, can I customize new outfit?
+
+▶Sure, just provide me with an image or concept design of your new outfit and I can make it for you.
 
 
 # ▉ Disclaimers ▉  
