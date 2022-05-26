@@ -7,13 +7,13 @@
 
 Hello, I am a 3D modeler and my models are mainly used for Mikumikudance.
 
-## The commissioned work can be used in other programs, but you will need a third party for format conversion and re-rig, and I'm sorry I can't provide conversion services at this time.|´Å`)ﾉ 
+### The commissioned work can be used in other programs, but you will need a third party for format conversion and re-rig, and I'm sorry I can't provide conversion services at this time.|´Å`)ﾉ 
 
 
 # ▉ 3d model prices FOR Vtuber ▉  
 
 
-## NOTE: This pricing is for a model optimised for MMD ONLY and will be recieved in the .pmx file type. I do not currently provide files for use with VR and VSF, but you can use an external program to convert the format.
+### NOTE: This pricing is for a model optimised for MMD ONLY and will be recieved in the .pmx file type. I do not currently provide files for use with VR and VSF, but you can use an external program to convert the format.
 
 
 ### streaming commercially price 
