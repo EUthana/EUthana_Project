@@ -7,16 +7,16 @@
 
 Hello, I am a 3D modeler and my models are mainly used for Mikumikudance.
 
-### The commissioned work can be used in other programs, but you will need a third party for format conversion and re-rig, and I'm sorry I can't provide conversion services at this time.|´Å`)ﾉ 
+##### The commissioned work can be used in other programs, but you will need a third party for format conversion and re-rig, and I'm sorry I can't provide conversion services at this time.|´Å`)ﾉ 
 
 
 # ▉ 3d model prices FOR Vtuber ▉  
 
 
-### NOTE: This pricing is for a model optimised for MMD ONLY and will be recieved in the .pmx file type. I do not currently provide files for use with VR and VSF, but you can use an external program to convert the format.
+##### NOTE: This pricing is for a model optimised for MMD ONLY and will be recieved in the .pmx file type. I do not currently provide files for use with VR and VSF, but you can use an external program to convert the format.
 
 
-### streaming commercially price 
+##### streaming commercially price 
 
 Modeling-combo start at 800 USD
 
@@ -46,7 +46,7 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ 3d model prices FOR Private/fanmade model ▉  
 
-### non-commercial Prices
+##### non-commercial Prices
 
 Modeling-combo start at 350 USD
 
@@ -75,22 +75,22 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ Elsword Related Commission ▉  
 
-### job gear/NPCs : 
+##### job gear/NPCs : 
 
 ● 200 ~ 500 USD + Additional Prices for awaken/transform （eg. Ara,Ain,Cheung）
 
 ● The model will be publicly distributed after it is completed.
 
-### Player OCs ：
+##### Player OCs ：
 
 ● 250 ~ 600 USD + Additional Prices for extra custom content.
 
 
 # ▉ Commission Process ▉  
 
-### All consultation process is conducted on Twitter DM, I can also provide discord, wechat, qq, Email and other social platforms to contact.
+##### All consultation process is conducted on Twitter DM, I can also provide discord, wechat, qq, Email and other social platforms to contact.
 
-### I accept PayPal payments, and if you are a Canadian user, I also accept EMT payments.
+##### I accept PayPal payments, and if you are a Canadian user, I also accept EMT payments.
 
 ● Negotiated price
 
@@ -105,7 +105,7 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ speciality and limitations ▉  
 
-### I specialize in:
+##### I specialize in:
 
 ● 3D model with more than 95% similarity to the Live 2D art/reference sheet you provided.
 
@@ -115,7 +115,7 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 ● please refer to my twitter for more references :3
 
-### I do not offer the following options:
+##### I do not offer the following options:
 
 ● hyper-realistic models
 
@@ -125,27 +125,27 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ FAQ ▉ 
 
-###  Can the commissioned model be used for NSFW?
+#####  Can the commissioned model be used for NSFW?
 
 ◆ Sure, I can't make R18 content but it is feasible for R18 and NSFW.
 
-###  can you make a head or base only?
+#####  can you make a head or base only?
 
 ◆ Sorry, I'm not accepting at the moment.
 
-### For some reason I don't want to commission anymore, can I cancel it?
+##### For some reason I don't want to commission anymore, can I cancel it?
 
 ◆ Yes, but I will not return the deposit that already paid. To avoid this, please double check before you pay the deposit.
 
-### When do I get feedback? is it possible for me to change anything?
+##### When do I get feedback? is it possible for me to change anything?
 
 ◆ I will update as soon as the commission begins, usually once a week and more frequently as we get closer to delivery.
 
-You can always tell me what needs to be replaced or changed before I start working on the part you want to change, otherwise I won't change it.
+◆ You can always tell me what needs to be replaced or changed before I start working on the part you want to change, otherwise I won't change it.
 
-Before the rig phase, I can accept substantial modifications (I will inform you) After the rig, all major modifications will be additionally priced.
+◆ Before the rig phase, I can accept substantial modifications (I will inform you) After the rig, all major modifications will be additionally priced.
 
-### I am a returning customer, can I customize new outfit?
+##### I am a returning customer, can I customize new outfit?
 
 ◆ Sure, just provide me with an image or concept design of your new outfit and I can make it for you.
 
