@@ -13,5 +13,5 @@
 
 # ▉ Commission Info ▉  
 ## ▷ [English](https://euthana.github.io/EUthana_Project//Comm/)
-## ▷ [简体中文](https://euthana.github.io/EUthana_Project/Language_EN/)
-
+## ▷ [简体中文](https://euthana.github.io/EUthana_Project//CommC/)
+## ▷ 한국어 work in process
