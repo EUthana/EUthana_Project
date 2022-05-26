@@ -72,6 +72,19 @@ Add-on:
 
 All prices are for reference only, depending on the complexity of the design.Most models will be 800 USD+
 
+# ▉ Elsword Related Commission ▉  
+
+### job gear/NPCs : 
+
+● 200 ~ 500 USD + Additional Prices for awaken/transform （eg. Ara,Ain,Cheung）
+
+● The model will be publicly distributed after it is completed.
+
+### Player OCs ：
+
+● 250 ~ 600 USD + Additional Prices for extra custom content.
+
+
 # ▉ Commission Process ▉  
 
 ● Negotiated price
