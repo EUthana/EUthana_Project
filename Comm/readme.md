@@ -104,9 +104,9 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ Contact ME ▉  
 
-Twitter：EUthana_Lau
+Twitter：EUthana_Lau  https://twitter.com/EUthana_Lau
 
-Bilibili UID：4165826      Bilibili空间：https://space.bilibili.com/4165826
+Bilibili UID：4165826  Bilibili space：https://space.bilibili.com/4165826
 
 
 
