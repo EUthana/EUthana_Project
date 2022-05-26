@@ -109,19 +109,19 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 ###  Can the commissioned model be used for NSFW?
 
-▶ Sure, I can't make R18 content but it is feasible for R18 and NSFW.
+◆ Sure, I can't make R18 content but it is feasible for R18 and NSFW.
 
 ###  can you make a head or base only?
 
-▶ Sorry, I'm not accepting at the moment.
+◆ Sorry, I'm not accepting at the moment.
 
 ### For some reason I don't want to commission anymore, can I cancel it?
 
-▶ Yes, but I will not return the deposit that already paid. To avoid this, please double check before you pay the deposit.
+◆ Yes, but I will not return the deposit that already paid. To avoid this, please double check before you pay the deposit.
 
 ### When do I get feedback? is it possible for me to change anything?
 
-▶ I will update as soon as the commission begins, usually once a week and more frequently as we get closer to delivery.
+◆ I will update as soon as the commission begins, usually once a week and more frequently as we get closer to delivery.
 
 You can always tell me what needs to be replaced or changed before I start working on the part you want to change, otherwise I won't change it.
 
@@ -129,7 +129,7 @@ Before the rig phase, I can accept substantial modifications (I will inform you)
 
 ### I am a returning customer, can I customize new outfit?
 
-▶Sure, just provide me with an image or concept design of your new outfit and I can make it for you.
+◆ Sure, just provide me with an image or concept design of your new outfit and I can make it for you.
 
 
 # ▉ Disclaimers ▉  
