@@ -46,7 +46,7 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ 3d model prices FOR Private/fanmade model ▉  
 
-### Pricenon-commercial Prices
+### non-commercial Prices
 
 Modeling-combo start at 350 USD
 
@@ -72,6 +72,7 @@ Add-on:
 
 All prices are for reference only, depending on the complexity of the design.Most models will be 800 USD+
 
+
 # ▉ Elsword Related Commission ▉  
 
 ### job gear/NPCs : 
@@ -87,7 +88,9 @@ All prices are for reference only, depending on the complexity of the design.Mos
 
 # ▉ Commission Process ▉  
 
-I accept PayPal payments, and if you are a Canadian user, I also accept EMT payments.
+### All consultation process is conducted on Twitter DM, I can also provide discord, wechat, qq, Email and other social platforms to contact.
+
+### I accept PayPal payments, and if you are a Canadian user, I also accept EMT payments.
 
 ● Negotiated price
 
