@@ -11,6 +11,16 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.5.31 아인- Apostolos 모델 팩▏
+
+![](image/ap2.jpg)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/278469)
+
+### ● bowlroll 비밀번호:
+
+![](image/RAG.png)
+
 ## ▏2022.5.21 헤르셔&임모탈- 2021 Wedding 忘川之約&滄海之誓 모델 팩▏
 
 ![](image/f4.jpg)
