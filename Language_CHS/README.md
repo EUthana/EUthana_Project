@@ -5,7 +5,7 @@
 
 ## ▏2022.5.31 艾因- 告解使徒 模组整合▏
 
-![](image/AP2.PNG)
+![](image/ap2.PNG)
 
 ### ▶ [BowlRoll 下载](https://bowlroll.net/file/278469)
 
