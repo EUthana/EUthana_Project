@@ -3,6 +3,16 @@
 
 # ▉ 模型配布 ▉ 
 
+## ▏2022.5.31 艾因- 告解使徒 模组整合▏
+
+![](image/AP2.PNG)
+
+### ▶ [BowlRoll 下载](https://bowlroll.net/file/278469)
+
+### ● bowlroll 密码:
+
+![](image/RAG.png)
+
 ## ▏2022.5.21 艾因&艾索德- 2021 婚礼 忘川之約&滄海之誓 模组整合▏
 
 ![](image/f4.jpg)
