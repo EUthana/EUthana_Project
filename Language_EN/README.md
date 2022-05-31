@@ -4,6 +4,16 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.5.31 Ain- Apostolos Model DL▏
+
+![](image/ap2.jpg)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/278469)
+
+### ● bowlroll Password:
+
+![](image/RAG.png)
+
 ## ▏2022.5.21 Ain&Elsword- 2021 Wedding Afterlife Oath&Evergreen Promise Model DL▏
 
 ![](image/f4.jpg)
