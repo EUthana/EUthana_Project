@@ -4,6 +4,17 @@
 
 # ▉ Model/Motion Distribution ▉  
 
+## ▏2022.6.1 LuCiel- Demersio Model DL▏
+
+![](image/TY33.png)
+
+### ▶ [BowlRoll DL Page](https://bowlroll.net/file/278528)
+
+### ● bowlroll Pass Hint:
+
+Who can make Lu recall the warmth of the past?
+
+
 ## ▏2022.5.31 Ain- Apostolos Model DL▏
 
 ![](image/ap2.jpg)
