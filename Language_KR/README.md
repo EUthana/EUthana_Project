@@ -11,6 +11,16 @@
 
 # ▉ 모델 팩 다운로드 ▉ 
 
+## ▏2022.6.1 루시엘- 데메르시오 모델 팩▏
+
+![](image/TY33.png)
+
+### ▶ [BowlRoll 페이지](https://bowlroll.net/file/278528)
+
+### ● bowlroll 비밀번호:
+
+루에게 따스함을 떠올리게 하는 사람
+
 ## ▏2022.5.31 아인- Apostolos 모델 팩▏
 
 ![](image/ap2.jpg)
