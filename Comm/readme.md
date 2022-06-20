@@ -24,7 +24,7 @@ Modeling-combo start at 800 USD
 
 ● rig and dynamic
 
-● 40 blendshapes
+● 80 blendshapes 
 
 ● full textures
 
